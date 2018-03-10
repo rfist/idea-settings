@@ -1,0 +1,39 @@
+<application>
+  <component name="libraryTable">
+    <library name="angular" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_angular.js_1.6.1_angular.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_angular.js_1.6.1_angular.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 3.5.2 virtualenv at D:\Projects\RambdaAS3\out\production\Python35 interpreter library">
+      <CLASSES>
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35/Lib" />
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35/Scripts" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35" />
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-937075378" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35/Lib" />
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35/Scripts" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35" />
+        <root url="file://D:/Projects/RambdaAS3/out/production/Python35/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.1/system/python_stubs/-937075378" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

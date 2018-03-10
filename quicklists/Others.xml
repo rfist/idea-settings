@@ -1,0 +1,5 @@
+<list display="Others">
+  <action id="EditorIncreaseFontSize" />
+  <action id="EditorDecreaseFontSize" />
+  <action id="EditorToggleUseSoftWraps" />
+</list>

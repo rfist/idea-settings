@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Make build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\work\sf\proctoru-student\build.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/work/sf/proctoru-student" />
+    </exec>
+  </tool>
+  <tool name="Copy build to test folder" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\work\sf\proctoru-student\copy_build.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/work/sf/proctoru-student" />
+    </exec>
+  </tool>
+</toolSet>
