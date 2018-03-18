@@ -124,11 +124,11 @@
         <mark key="]" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/Solutions.js" timestamp="1520676218171">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="64" />
-        <mark key="^" line="46" column="64" />
-        <mark key="." line="46" column="64" />
+      <file name="D:/Projects/adventofcode_solutions/src/Solutions.js" timestamp="1521415009049">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
@@ -190,10 +190,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>72</text>
+        <text>description</text>
       </register>
       <register name="-" type="4">
-        <text>72</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXp6bGVOdW1iZXJcPg==</text>
