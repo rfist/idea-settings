@@ -29,11 +29,10 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" timestamp="1531994140116">
-        <mark key="'" line="174" column="33" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="102" />
-        <mark key="." line="178" column="0" />
+      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" timestamp="1532000477345">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="101" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" timestamp="1520629632336">
         <mark key="'" line="4" column="9" />
@@ -136,6 +135,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
+      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/index.js" timestamp="1532000044082">
+        <mark key="[" line="3438" column="38" />
+        <mark key="]" line="3438" column="48" />
+        <mark key="^" line="3438" column="48" />
+        <mark key="." line="3438" column="48" />
+      </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="20" />
@@ -210,22 +215,23 @@
       <jump line="189" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
       <jump line="80" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
       <jump line="174" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
+      <jump line="33" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfHwgZHNwUmVzcG9uc2VbJ2RhdGEnXVsnc2VhdGJpZCddWzBdWydiaWQnXVswXVsnY3JpZCddLnRvTG93ZXJDYXNlKCkuaW5kZXhPZignYXRvbXgnKSA+IC0xCg==</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>blockedsites</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZG1peGVyXD4=</text>
+        <text>admix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgZHNwUmVzcG9uc2VbJ2RhdGEnXVsnc2VhdGJpZCddWzBdWydiaWQnXVswXVsnY3JpZCddLnRvTG93ZXJDYXNlKCkuaW5kZXhPZignYXRvbXgnKSA+IC0xCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3NwcGFydG5lci5uYW1lID09PSAiY3lkZXJzb2Z0X1VTX0VBU1RfY3lkZXJzb2Z0IikgewogICAgICAgICAgICBjb25zb2xlLmxvZygiY3lkZXJzb2Z0IiwgIm1pbWVzIik7CiAgICAgICAgICAgIGNvbnNvbGUudGltZUVuZCgiY3lkZXJzb2Z0Iik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -237,28 +243,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjaGFpIjogIl40LjEuMiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJqZXN0LWNsaSI6ICJeMjIuNC4yIiwK</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl40LjEuMiIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIjIwLjAuNCIsCg==</text>
+        <text encoding="base64">ICAgICJqZXN0LWNsaSI6ICJeMjIuNC4yIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IHB1enpsZU51bWJlciA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICJqZXN0IjogIjIwLjAuNCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgM2RkaWYgKHggPCAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeCA9IDA7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">bGV0IHB1enpsZU51bWJlciA9IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZG1peGVyXD4=</last-search>
+      <last-search>admix</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZG1peGVyXD4=</last-pattern>
+      <last-pattern>admix</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -275,6 +281,7 @@
         <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxwdXp6bGVOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxhZG1peGVyXD4=</entry>
+        <entry>admix</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
