@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.js" timestamp="1520588502835">
