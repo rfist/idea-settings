@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/work/smartyads/ad/adexchange/temp/empty_crid.txt" timestamp="1535373400656">
@@ -32,12 +32,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" timestamp="1535376940746">
-        <mark key="'" line="62" column="14" />
-        <mark key="[" line="201" column="12" />
-        <mark key="]" line="201" column="33" />
-        <mark key="." line="201" column="33" />
-        <mark key="^" line="201" column="33" />
+      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" timestamp="1535377864952">
+        <mark key="'" line="60" column="14" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="199" column="33" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" timestamp="1520629632336">
         <mark key="'" line="4" column="9" />
@@ -135,7 +135,7 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="26" />
       </file>
-      <file name="/DSPConnectors.js" timestamp="1535373025771" />
+      <file name="/DSPConnectors.js" timestamp="1535378105269" />
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SignalWrapper.as" timestamp="1503856887956">
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="32" />
@@ -146,12 +146,6 @@
         <mark key="]" line="18" column="24" />
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
-      </file>
-      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/index.js" timestamp="1535373923467">
-        <mark key="[" line="7335" column="0" />
-        <mark key="]" line="7335" column="0" />
-        <mark key="^" line="7335" column="0" />
-        <mark key="." line="7335" column="0" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
@@ -236,8 +230,8 @@
       <jump line="60" column="14" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>avivads_in-app_US_EAST</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>avivads_in-app_US_EAST</text>
@@ -249,31 +243,31 @@
         <text encoding="base64">ICAgICAgY2FzZSAnYXZpdmFkc19pbi1hcHBfVVNfRUFTVCc6CiAgICAgICAgICBpZiAoYmlkUmVxdWVzdC5zaXRlICYmICFiaWRSZXF1ZXN0LnNpdGUuaGFzT3duUHJvcGVydHkoJ3JlZicpKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgfQogICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCAyYjkzMzA2ODJkZTk2YmY2ZjJkYzU3OWY0ODNhNDBmNjRhNWI4Y2IwKQoKIyBDb25mbGljdHM6CiMJbm9kZWpzL25vZGVfc2VydmVyL2Nvbm5lY3RvcnMvRFNQQ29ubmVjdG9ycy5qcw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAnYXZpdmFkc19pbi1hcHBfVVNfRUFTVCc6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">bwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW9fVVNfRUFTVCc6Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCAyYjkzMzA2ODJkZTk2YmY2ZjJkYzU3OWY0ODNhNDBmNjRhNWI4Y2IwKQoKIyBDb25mbGljdHM6CiMJbm9kZWpzL25vZGVfc2VydmVyL2Nvbm5lY3RvcnMvRFNQQ29ubmVjdG9ycy5qcw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1QnOgogICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgogICAgICAgICAgICBpZiAoIWJpZFJlcXVlc3RbJ2ltcCddWzBdWyd2aWRlbyddLmhhc093blByb3BlcnR5KCdtaW5kdXJhdGlvbicpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW9fVVNfRUFTVCc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1QnOgogICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgogICAgICAgICAgICBpZiAoIWJpZFJlcXVlc3RbJ2ltcCddWzBdWyd2aWRlbyddLmhhc093blByb3BlcnR5KCdtaW5kdXJhdGlvbicpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgY2FzZSAnQkNfbmV3Ym9ybl92aWRlb19VU19FQVNUJzoKICAgICAgY2FzZSAnQkNfbmV3Ym9ybl92aWRlbzJfVVNfRUFTVCc6CiAgICAgICAgICAKICAgICAgICAgIGJyZWFrOw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
