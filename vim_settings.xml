@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="D:/work/smartyads/ad/adexchange/temp/empty_crid.txt" timestamp="1535373400656">
+        <mark key="[" line="1" column="43" />
+      </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.js" timestamp="1520588502835">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -29,10 +32,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" timestamp="1532000477345">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="101" />
+      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" timestamp="1535373098696">
+        <mark key="'" line="60" column="14" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="10" />
+        <mark key="." line="64" column="10" />
+        <mark key="^" line="167" column="21" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" timestamp="1520629632336">
         <mark key="'" line="4" column="9" />
@@ -76,10 +81,10 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532006183687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1535373134641">
+        <mark key="[" line="0" column="42" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_1.js" timestamp="1520588847767">
         <mark key="[" line="16" column="29" />
@@ -130,6 +135,7 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="26" />
       </file>
+      <file name="/DSPConnectors.js" timestamp="1535373025771" />
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SignalWrapper.as" timestamp="1503856887956">
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="32" />
@@ -140,6 +146,12 @@
         <mark key="]" line="18" column="24" />
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
+      </file>
+      <file name="D:/work/smartyads/ad/adexchange/nodejs/node_server/index.js" timestamp="1535373923467">
+        <mark key="[" line="7335" column="0" />
+        <mark key="]" line="7335" column="0" />
+        <mark key="^" line="7335" column="0" />
+        <mark key="." line="7335" column="0" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
@@ -216,55 +228,61 @@
       <jump line="80" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
       <jump line="174" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
       <jump line="33" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
+      <jump line="28" column="8" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
+      <jump line="4" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
+      <jump line="120" column="32" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
+      <jump line="63" column="16" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
+      <jump line="62" column="16" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
+      <jump line="60" column="14" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgZHNwUmVzcG9uc2VbJ2RhdGEnXVsnc2VhdGJpZCddWzBdWydiaWQnXVswXVsnY3JpZCddLnRvTG93ZXJDYXNlKCkuaW5kZXhPZignYXRvbXgnKSA+IC0xCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCAyYjkzMzA2ODJkZTk2YmY2ZjJkYzU3OWY0ODNhNDBmNjRhNWI4Y2IwKQoKIyBDb25mbGljdHM6CiMJbm9kZWpzL25vZGVfc2VydmVyL2Nvbm5lY3RvcnMvRFNQQ29ubmVjdG9ycy5qcw==</text>
       </register>
       <register name="-" type="4">
-        <text>blockedsites</text>
+        <text>['api'] || bidRequest['imp'][0]['video']['api'].length == 0</text>
       </register>
       <register name="/" type="4">
-        <text>admix</text>
+        <text>inmoby</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc3NwcGFydG5lci5uYW1lID09PSAiY3lkZXJzb2Z0X1VTX0VBU1RfY3lkZXJzb2Z0IikgewogICAgICAgICAgICBjb25zb2xlLmxvZygiY3lkZXJzb2Z0IiwgIm1pbWVzIik7CiAgICAgICAgICAgIGNvbnNvbGUudGltZUVuZCgiY3lkZXJzb2Z0Iik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIWJpZFJlcXVlc3RbJ2ltcCddWzBdWyd2aWRlbyddWydhcGknXSB8fCBiaWRSZXF1ZXN0WydpbXAnXVswXVsndmlkZW8nXVsnYXBpJ10ubGVuZ3RoID09IDAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCAyYjkzMzA2ODJkZTk2YmY2ZjJkYzU3OWY0ODNhNDBmNjRhNWI4Y2IwKQoKIyBDb25mbGljdHM6CiMJbm9kZWpzL25vZGVfc2VydmVyL2Nvbm5lY3RvcnMvRFNQQ29ubmVjdG9ycy5qcw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW9fVVNfRUFTVCc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1QnOgogICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgogICAgICAgICAgICBpZiAoIWJpZFJlcXVlc3RbJ2ltcCddWzBdWyd2aWRlbyddLmhhc093blByb3BlcnR5KCdtaW5kdXJhdGlvbicpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjaGFpIjogIl40LjEuMiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJqZXN0LWNsaSI6ICJeMjIuNC4yIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJqZXN0IjogIjIwLjAuNCIsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgY2FzZSAnQkNfbmV3Ym9ybl92aWRlb19VU19FQVNUJzoKICAgICAgY2FzZSAnQkNfbmV3Ym9ybl92aWRlbzJfVVNfRUFTVCc6CiAgICAgICAgICAKICAgICAgICAgIGJyZWFrOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHB1enpsZU51bWJlciA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>admix</last-search>
+      <last-search>inmoby</last-search>
       <last-offset />
-      <last-pattern>admix</last-pattern>
+      <last-pattern>inmoby</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -282,6 +300,13 @@
         <entry encoding="base64">XDxwdXp6bGVOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxhZG1peGVyXD4=</entry>
         <entry>admix</entry>
+        <entry>baner</entry>
+        <entry>banner</entry>
+        <entry>video</entry>
+        <entry encoding="base64">XDxCQ19uZXdib3JuX3ZpZGVvMl9VU19FQVNUXD4=</entry>
+        <entry encoding="base64">XDxCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1RcPg==</entry>
+        <entry>inmobi</entry>
+        <entry>inmoby</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
@@ -337,6 +362,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
