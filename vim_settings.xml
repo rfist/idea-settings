@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/work/smartyads/ad/adexchange/temp/empty_crid.txt" timestamp="1535373400656">
@@ -67,6 +67,12 @@
         <mark key="]" line="15" column="39" />
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539525206983">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -135,7 +141,6 @@
         <mark key="^" line="56" column="26" />
         <mark key="." line="56" column="26" />
       </file>
-      <file name="/DSPConnectors.js" timestamp="1535378105269" />
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SignalWrapper.as" timestamp="1503856887956">
         <mark key="[" line="57" column="32" />
         <mark key="]" line="57" column="32" />
@@ -234,7 +239,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>avivads_in-app_US_EAST</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>inmoby</text>
@@ -246,28 +251,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnYXZpdmFkc19pbi1hcHBfVVNfRUFTVCc6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSAnYXZpdmFkc19pbi1hcHBfVVNfRUFTVCc6Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">bwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CgooY2hlcnJ5IHBpY2tlZCBmcm9tIGNvbW1pdCAyYjkzMzA2ODJkZTk2YmY2ZjJkYzU3OWY0ODNhNDBmNjRhNWI4Y2IwKQoKIyBDb25mbGljdHM6CiMJbm9kZWpzL25vZGVfc2VydmVyL2Nvbm5lY3RvcnMvRFNQQ29ubmVjdG9ycy5qcw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW9fVVNfRUFTVCc6Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1QnOgogICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgogICAgICAgICAgICBpZiAoIWJpZFJlcXVlc3RbJ2ltcCddWzBdWyd2aWRlbyddLmhhc093blByb3BlcnR5KCdtaW5kdXJhdGlvbicpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYnJlYWs7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlICdCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1QnOgogICAgICAgIGNhc2UgJ0JDX25ld2Jvcm5fdmlkZW8yX1VTX0VBU1QnOgogICAgICAgICAgICBpZiAoIWJpZFJlcXVlc3RbJ2ltcCddWzBdWyd2aWRlbyddLmhhc093blByb3BlcnR5KCdtaW5kdXJhdGlvbicpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
