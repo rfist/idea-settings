@@ -141,11 +141,11 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/controllers/webhooks.js" timestamp="1539546073079">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="58" />
-        <mark key="." line="14" column="58" />
+      <file name="D:/Develop/chatbot-fb/app/controllers/webhooks.js" timestamp="1539548461786">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="D:/work/sf/proctoru-student/scripts/com/util/StateHolder.as" timestamp="1503763548270">
         <mark key="'" line="154" column="19" />
@@ -276,11 +276,11 @@
       <jump line="4" column="14" filename="D:/Develop/chatbot-fb/app/controllers/webhooks.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>receive</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>receive</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</text>
@@ -292,28 +292,28 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cFNlcnZlci5saXN0ZW4oODA4MCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGh0dHBTZXJ2ZXIgPSBodHRwLmNyZWF0ZVNlcnZlcihhcHApOwo=</text>
+        <text encoding="base64">aHR0cFNlcnZlci5saXN0ZW4oODA4MCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
+        <text encoding="base64">dmFyIGh0dHBTZXJ2ZXIgPSBodHRwLmNyZWF0ZVNlcnZlcihhcHApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7Cg==</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdnCg==</text>
+        <text encoding="base64">dmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIGdnCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
