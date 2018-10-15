@@ -15,6 +15,12 @@
       <file name="/a.dummy" timestamp="1503765390501">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" timestamp="1539620855603">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="33" column="45" />
+      </file>
       <file name="D:/work/sf/proctoru/bin/ProctorApp-app.xml" timestamp="1485382021899">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="23" />
@@ -45,11 +51,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="199" column="33" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" timestamp="1539613666082">
-        <mark key="[" line="31" column="1" />
-        <mark key="]" line="91" column="1" />
-        <mark key="^" line="91" column="1" />
-        <mark key="." line="91" column="1" />
+      <file name="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" timestamp="1539620162395">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="67" column="17" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" timestamp="1520629632336">
         <mark key="'" line="4" column="9" />
@@ -69,6 +76,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/sample_hears.js" timestamp="1539619038732">
+        <mark key="'" line="11" column="26" />
+      </file>
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SchedulingAPI.as" timestamp="1503829175948">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -87,11 +97,17 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539546613717">
+      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539618934509">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="5" column="198" />
         <mark key="^" line="5" column="198" />
         <mark key="." line="5" column="198" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/components/bot.js" timestamp="1539620383948">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="11" column="586" />
+        <mark key="." line="11" column="586" />
+        <mark key="^" line="11" column="586" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties" timestamp="1503772907052">
         <mark key="[" line="15" column="36" />
@@ -99,10 +115,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539616127289">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539619217682">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="39" />
+        <mark key="^" line="12" column="39" />
+        <mark key="." line="12" column="39" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -146,11 +163,11 @@
         <mark key="^" line="24" column="17" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/controllers/webhooks.js" timestamp="1539613655483">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="37" />
+      <file name="D:/Develop/chatbot-fb/app/controllers/webhooks.js" timestamp="1539617292398">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
       </file>
       <file name="D:/work/sf/proctoru-student/scripts/com/util/StateHolder.as" timestamp="1503763548270">
         <mark key="'" line="154" column="19" />
@@ -214,11 +231,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539616209927">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="30" column="64" />
-        <mark key="." line="25" column="0" />
+      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539618502166">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -291,43 +308,47 @@
       <jump line="1" column="22" filename="D:/Develop/chatbot-fb/app/components/webhooks.js" />
       <jump line="23" column="0" filename="D:/Develop/chatbot-fb/app/controllers/webhooks.js" />
       <jump line="4" column="14" filename="D:/Develop/chatbot-fb/app/controllers/webhooks.js" />
+      <jump line="48" column="17" filename="D:/Develop/chatbot-fb/app/skills/sample_hears.js" />
+      <jump line="11" column="26" filename="D:/Develop/chatbot-fb/app/skills/sample_hears.js" />
+      <jump line="64" column="0" filename="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" />
+      <jump line="30" column="24" filename="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGlzdGVuaW5nIG9uIHBvcnQgJyArIHdlYnNlcnZlci5nZXQoJ3BvcnQnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>Eat</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</text>
+        <text encoding="base64">XDx3b3JkZmlsdGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>path.join(normalizedPath, 'sslcert',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOidwb3N0YmFjaycsCiAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6J0VhdCBDb29raWUnLAogICAgICAgICAgICAgICAgICAgICAgICAncGF5bG9hZCc6J2Nob2NvbGF0ZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGlzdGVuaW5nIG9uIHBvcnQgJyArIHdlYnNlcnZlci5nZXQoJ3BvcnQnKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgaHR0cCAgICAgICAgICAgPSByZXF1aXJlKCdodHRwJykuU2VydmVyKGFwcCk7Cg==</text>
+        <text encoding="base64">ICAgIGFwcC5wb3N0KCcvZmFjZWJvb2svcmVjZWl2ZScsIGZ1bmN0aW9uIChyZXEsIHJlcykgewoKICAgICAgICAvLyBOT1RFOiB3ZSBzaG91bGQgZW5mb3JjZSB0aGUgdG9rZW4gY2hlY2sgaGVyZQoKICAgICAgICAvLyByZXNwb25kIHRvIFNsYWNrIHRoYXQgdGhlIHdlYmhvb2sgaGFzIGJlZW4gcmVjZWl2ZWQuCiAgICAgICAgcmVzLnN0YXR1cygyMDApOwogICAgICAgIHJlcy5zZW5kKCdvaycpOwoKICAgICAgICAvLyB2YXIgYm90ID0gY29udHJvbGxlci5zcGF3bih7fSk7CgogICAgICAgIC8vIE5vdywgcGFzcyB0aGUgd2ViaG9vayBpbnRvIGJlIHByb2Nlc3NlZAogICAgICAgIC8vIGNvbnRyb2xsZXIuaGFuZGxlV2ViaG9va1BheWxvYWQocmVxLCByZXMsIGJvdCk7CiAgICB9KTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLnNldCgncG9ydCcsIChwcm9jZXNzLmVudi5QT1JUKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9wb3J0IGZvciBIZXJva3UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdCA9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHF1ZXJ5c3RyaW5nID0gcmVxdWlyZSgncXVlcnlzdHJpbmcnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHZhciBub3JtYWxpemVkUGF0aCA9IHJlcXVpcmUoInBhdGgiKS5qb2luKF9fZGlybmFtZSwgInJvdXRlcyIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -337,15 +358,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</last-search>
+      <last-search encoding="base64">XDx3b3JkZmlsdGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3b3JkZmlsdGVyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXRTdGF0dXNIYW5kbGVyXD4=</entry>
         <entry>Student.proc</entry>
         <entry>Stud</entry>
         <entry encoding="base64">XDxTdHVkZW50XD4=</entry>
@@ -365,6 +385,7 @@
         <entry>inmoby</entry>
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</entry>
+        <entry encoding="base64">XDx3b3JkZmlsdGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
