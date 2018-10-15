@@ -104,12 +104,6 @@
         <mark key="^" line="5" column="198" />
         <mark key="." line="5" column="198" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/components/bot.js" timestamp="1539620383948">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="11" column="586" />
-        <mark key="." line="11" column="586" />
-        <mark key="^" line="11" column="586" />
-      </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties" timestamp="1503772907052">
         <mark key="[" line="15" column="36" />
         <mark key="]" line="15" column="39" />
@@ -121,12 +115,6 @@
         <mark key="]" line="12" column="39" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539636145868">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="28" column="29" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/skills/postbacks.js" timestamp="1539637140627">
         <mark key="[" line="5" column="29" />
@@ -237,10 +225,9 @@
         <mark key="." line="14" column="20" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539637115316">
-        <mark key="'" line="10" column="36" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/fragment.js2" timestamp="1503857123928">
         <mark key="[" line="0" column="0" />
@@ -249,12 +236,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539618502166">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="36" column="53" />
-        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
