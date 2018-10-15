@@ -99,11 +99,10 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539545573458">
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="72" />
-        <mark key="^" line="51" column="72" />
-        <mark key="." line="51" column="72" />
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539616127289">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -215,6 +214,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539616209927">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="30" column="64" />
+        <mark key="." line="25" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="46" column="0" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
@@ -289,43 +294,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIGRlYnVnID0gcmVxdWlyZSgnZGVidWcnKSgnYm90a2l0Om1haW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGlzdGVuaW5nIG9uIHBvcnQgJyArIHdlYnNlcnZlci5nZXQoJ3BvcnQnKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAnYXZpdmFkc19pbi1hcHBfVVNfRUFTVCc6CiAgICAgICAgICBpZiAoYmlkUmVxdWVzdC5zaXRlICYmICFiaWRSZXF1ZXN0LnNpdGUuaGFzT3duUHJvcGVydHkoJ3JlZicpKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgfQogICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="0" type="4">
+        <text>path.join(normalizedPath, 'sslcert',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIGRlYnVnID0gcmVxdWlyZSgnZGVidWcnKSgnYm90a2l0Om1haW4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbGlzdGVuaW5nIG9uIHBvcnQgJyArIHdlYnNlcnZlci5nZXQoJ3BvcnQnKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgaHR0cCAgICAgICAgICAgPSByZXF1aXJlKCdodHRwJykuU2VydmVyKGFwcCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLnNldCgncG9ydCcsIChwcm9jZXNzLmVudi5QT1JUKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cFNlcnZlci5saXN0ZW4oODA4MCk7Cg==</text>
+        <text encoding="base64">Ly9wb3J0IGZvciBIZXJva3UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGh0dHBTZXJ2ZXIgPSBodHRwLmNyZWF0ZVNlcnZlcihhcHApOwo=</text>
+        <text encoding="base64">dmFyIHF1ZXJ5c3RyaW5nID0gcmVxdWlyZSgncXVlcnlzdHJpbmcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -365,6 +370,8 @@
         <entry>sp MapPlastunView</entry>
         <entry>vsp</entry>
         <entry>vplit</entry>
+        <entry>vslpit</entry>
+        <entry>split</entry>
         <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
