@@ -15,11 +15,12 @@
       <file name="/a.dummy" timestamp="1503765390501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" timestamp="1539620855603">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="33" column="45" />
+      <file name="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" timestamp="1539636274953">
+        <mark key="e" line="24" column="24" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/work/sf/proctoru/bin/ProctorApp-app.xml" timestamp="1485382021899">
         <mark key="[" line="20" column="21" />
@@ -51,12 +52,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="199" column="33" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" timestamp="1539620162395">
+      <file name="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" timestamp="1539637264091">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="67" column="17" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="41" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" timestamp="1520629632336">
         <mark key="'" line="4" column="9" />
@@ -120,6 +121,18 @@
         <mark key="]" line="12" column="39" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539636145868">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="28" column="29" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/postbacks.js" timestamp="1539637140627">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="40" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -223,6 +236,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539637115316">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="/fragment.js2" timestamp="1503857123928">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,34 +331,35 @@
       <jump line="11" column="26" filename="D:/Develop/chatbot-fb/app/skills/sample_hears.js" />
       <jump line="64" column="0" filename="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" />
       <jump line="30" column="24" filename="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" />
+      <jump line="10" column="36" filename="D:/Develop/chatbot-fb/app/skills/conversations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSXRlcmF0ZXMgb3ZlciBlYWNoIGVudHJ5IC0gdGhlcmUgbWF5IGJlIG11bHRpcGxlIGlmIGJhdGNoZWQKICAgICAgICAgICAgYm9keS5lbnRyeS5mb3JFYWNoKGZ1bmN0aW9uIChlbnRyeSkgewoKICAgICAgICAgICAgICAgIC8vIEdldHMgdGhlIG1lc3NhZ2UuIGVudHJ5Lm1lc3NhZ2luZyBpcyBhbiBhcnJheSwgYnV0CiAgICAgICAgICAgICAgICAvLyB3aWxsIG9ubHkgZXZlciBjb250YWluIG9uZSBtZXNzYWdlLCBzbyB3ZSBnZXQgaW5kZXggMAogICAgICAgICAgICAgICAgbGV0IHdlYmhvb2tfZXZlbnQgPSBlbnRyeS5tZXNzYWdpbmdbMF07CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh3ZWJob29rX2V2ZW50KTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Eat</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3b3JkZmlsdGVyXD4=</text>
+        <text encoding="base64">XDxtZW51XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOidwb3N0YmFjaycsCiAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6J0VhdCBDb29raWUnLAogICAgICAgICAgICAgICAgICAgICAgICAncGF5bG9hZCc6J2Nob2NvbGF0ZScK</text>
+        <text encoding="base64">Y29uc3QgbWVudSA9IHJlcXVpcmUoJy4uL2NvbXBvbmVudHMvbWVudScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gSXRlcmF0ZXMgb3ZlciBlYWNoIGVudHJ5IC0gdGhlcmUgbWF5IGJlIG11bHRpcGxlIGlmIGJhdGNoZWQKICAgICAgICAgICAgYm9keS5lbnRyeS5mb3JFYWNoKGZ1bmN0aW9uIChlbnRyeSkgewoKICAgICAgICAgICAgICAgIC8vIEdldHMgdGhlIG1lc3NhZ2UuIGVudHJ5Lm1lc3NhZ2luZyBpcyBhbiBhcnJheSwgYnV0CiAgICAgICAgICAgICAgICAvLyB3aWxsIG9ubHkgZXZlciBjb250YWluIG9uZSBtZXNzYWdlLCBzbyB3ZSBnZXQgaW5kZXggMAogICAgICAgICAgICAgICAgbGV0IHdlYmhvb2tfZXZlbnQgPSBlbnRyeS5tZXNzYWdpbmdbMF07CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh3ZWJob29rX2V2ZW50KTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd2ViaG9vayBwb3N0ISEnLCBib2R5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcC5wb3N0KCcvZmFjZWJvb2svcmVjZWl2ZScsIGZ1bmN0aW9uIChyZXEsIHJlcykgewoKICAgICAgICAvLyBOT1RFOiB3ZSBzaG91bGQgZW5mb3JjZSB0aGUgdG9rZW4gY2hlY2sgaGVyZQoKICAgICAgICAvLyByZXNwb25kIHRvIFNsYWNrIHRoYXQgdGhlIHdlYmhvb2sgaGFzIGJlZW4gcmVjZWl2ZWQuCiAgICAgICAgcmVzLnN0YXR1cygyMDApOwogICAgICAgIHJlcy5zZW5kKCdvaycpOwoKICAgICAgICAvLyB2YXIgYm90ID0gY29udHJvbGxlci5zcGF3bih7fSk7CgogICAgICAgIC8vIE5vdywgcGFzcyB0aGUgd2ViaG9vayBpbnRvIGJlIHByb2Nlc3NlZAogICAgICAgIC8vIGNvbnRyb2xsZXIuaGFuZGxlV2ViaG9va1BheWxvYWQocmVxLCByZXMsIGJvdCk7CiAgICB9KTsKCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd2ViaG9vayBwb3N0ISEnKTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdCA9Owo=</text>
+        <text encoding="base64">ICAgIGFwcC5nZXQoJy8nLCBmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgICAgICByZXMuc2VuZCgnaGVsbG8gd29ybGQnKQogICAgfSk7CgogICAgYXBwLnBvc3QoJy8nLCBmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgICAgICBjb25zb2xlLmxvZygnZmFjZWJvb2svcmVjZWl2ZScsIHJlcS5ib2R5KTsKICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -348,25 +368,24 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHZhciBub3JtYWxpemVkUGF0aCA9IHJlcXVpcmUoInBhdGgiKS5qb2luKF9fZGlybmFtZSwgInJvdXRlcyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIuaGVhcnMoWydxdWVzdGlvbiddLCAnbWVzc2FnZV9yZWNlaXZlZCcsIGZ1bmN0aW9uIChib3QsIG1lc3NhZ2UpIHsKCiAgICAgICAgYm90LmNyZWF0ZUNvbnZlcnNhdGlvbihtZXNzYWdlLCBmdW5jdGlvbiAoZXJyLCBjb252bykgewoKICAgICAgICAgICAgLy8gY3JlYXRlIGEgcGF0aCBmb3Igd2hlbiBhIHVzZXIgc2F5cyBZRVMKICAgICAgICAgICAgY29udm8uYWRkTWVzc2FnZSh7CiAgICAgICAgICAgICAgICB0ZXh0OiAnSG93IHdvbmRlcmZ1bC4nLAogICAgICAgICAgICB9LCAneWVzX3RocmVhZCcpOwoKICAgICAgICAgICAgLy8gY3JlYXRlIGEgcGF0aCBmb3Igd2hlbiBhIHVzZXIgc2F5cyBOTwogICAgICAgICAgICAvLyBtYXJrIHRoZSBjb252ZXJzYXRpb24gYXMgdW5zdWNjZXNzZnVsIGF0IHRoZSBlbmQKICAgICAgICAgICAgY29udm8uYWRkTWVzc2FnZSh7CiAgICAgICAgICAgICAgICB0ZXh0OiAnQ2hlZXNlISBJdCBpcyBub3QgZm9yIGV2ZXJ5b25lLicsCiAgICAgICAgICAgICAgICBhY3Rpb246ICdzdG9wJywgLy8gdGhpcyBtYXJrcyB0aGUgY29udmVyYXRpb24gYXMgdW5zdWNjZXNzZnVsCiAgICAgICAgICAgIH0sICdub190aHJlYWQnKTsKCiAgICAgICAgICAgIC8vIGNyZWF0ZSBhIHBhdGggd2hlcmUgbmVpdGhlciBvcHRpb24gd2FzIG1hdGNoZWQKICAgICAgICAgICAgLy8gdGhpcyBtZXNzYWdlIGhhcyBhbiBhY3Rpb24gZmllbGQsIHdoaWNoIGRpcmVjdHMgYm90a2l0IHRvIGdvIGJhY2sgdG8gdGhlIGBkZWZhdWx0YCB0aHJlYWQgYWZ0ZXIgc2VuZGluZyB0aGlzIG1lc3NhZ2UuCiAgICAgICAgICAgIGNvbnZvLmFkZE1lc3NhZ2UoewogICAgICAgICAgICAgICAgdGV4dDogJ1NvcnJ5IEkgZGlkIG5vdCB1bmRlcnN0YW5kLiBTYXkgYHllc2Agb3IgYG5vYCcsCiAgICAgICAgICAgICAgICBhY3Rpb246ICdkZWZhdWx0JywKICAgICAgICAgICAgfSwgJ2JhZF9yZXNwb25zZScpOwoKICAgICAgICAgICAgLy8gQ3JlYXRlIGEgeWVzL25vIHF1ZXN0aW9uIGluIHRoZSBkZWZhdWx0IHRocmVhZC4uLgogICAgICAgICAgICBjb252by5hc2soJ0RvIHlvdSBsaWtlIGNoZWVzZT8nLCBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcGF0dGVybjogYm90LnV0dGVyYW5jZXMueWVzLAogICAgICAgICAgICAgICAgICAgIGNhbGxiYWNrOiBmdW5jdGlvbiAocmVzcG9uc2UsIGNvbnZvKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnZvLmdvdG9UaHJlYWQoJ3llc190aHJlYWQnKTsKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwYXR0ZXJuOiBib3QudXR0ZXJhbmNlcy5ubywKICAgICAgICAgICAgICAgICAgICBjYWxsYmFjazogZnVuY3Rpb24gKHJlc3BvbnNlLCBjb252bykgewogICAgICAgICAgICAgICAgICAgICAgICBjb252by5nb3RvVGhyZWFkKCdub190aHJlYWQnKTsKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIGNhbGxiYWNrOiBmdW5jdGlvbiAocmVzcG9uc2UsIGNvbnZvKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnZvLmdvdG9UaHJlYWQoJ2JhZF9yZXNwb25zZScpOwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0pOwoKICAgICAgICAgICAgY29udm8uYWN0aXZhdGUoKTsKCiAgICAgICAgICAgIC8vIGNhcHR1cmUgdGhlIHJlc3VsdHMgb2YgdGhlIGNvbnZlcnNhdGlvbiBhbmQgc2VlIHdoYXQgaGFwcGVuZWQuLi4KICAgICAgICAgICAgY29udm8ub24oJ2VuZCcsIGZ1bmN0aW9uIChjb252bykgewoKICAgICAgICAgICAgICAgIGlmIChjb252by5zdWNjZXNzZnVsKCkpIHsKICAgICAgICAgICAgICAgICAgICAvLyB0aGlzIHN0aWxsIHdvcmtzIHRvIHNlbmQgaW5kaXZpZHVhbCByZXBsaWVzLi4uCiAgICAgICAgICAgICAgICAgICAgYm90LnJlcGx5KG1lc3NhZ2UsICdMZXQgdXMgZWF0IHNvbWUhJyk7CgogICAgICAgICAgICAgICAgICAgIC8vIGFuZCBub3cgZGVsaXZlciBjaGVlc2UgdmlhIHRjcC9pcC4uLgogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7CgogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3b3JkZmlsdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxtZW51XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3b3JkZmlsdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtZW51XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Student.proc</entry>
         <entry>Stud</entry>
         <entry encoding="base64">XDxTdHVkZW50XD4=</entry>
         <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
@@ -386,6 +405,7 @@
         <entry encoding="base64">XDxyZXFcPg==</entry>
         <entry encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</entry>
         <entry encoding="base64">XDx3b3JkZmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxtZW51XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
