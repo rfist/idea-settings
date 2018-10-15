@@ -183,6 +183,12 @@
         <mark key="]" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/controllers/bot.js" timestamp="1539613087895">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+      </file>
       <file name="D:/Projects/adventofcode_solutions/src/Solutions.js" timestamp="1521415009049">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="24" />
@@ -276,11 +282,11 @@
       <jump line="4" column="14" filename="D:/Develop/chatbot-fb/app/controllers/webhooks.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>receive</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIGRlYnVnID0gcmVxdWlyZSgnZGVidWcnKSgnYm90a2l0Om1haW4nKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>receive</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</text>
@@ -289,31 +295,31 @@
         <text encoding="base64">ICAgICAgY2FzZSAnYXZpdmFkc19pbi1hcHBfVVNfRUFTVCc6CiAgICAgICAgICBpZiAoYmlkUmVxdWVzdC5zaXRlICYmICFiaWRSZXF1ZXN0LnNpdGUuaGFzT3duUHJvcGVydHkoJ3JlZicpKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgfQogICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dmFyIGRlYnVnID0gcmVxdWlyZSgnZGVidWcnKSgnYm90a2l0Om1haW4nKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aHR0cFNlcnZlci5saXN0ZW4oODA4MCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGh0dHBTZXJ2ZXIgPSBodHRwLmNyZWF0ZVNlcnZlcihhcHApOwo=</text>
+        <text encoding="base64">aHR0cFNlcnZlci5saXN0ZW4oODA4MCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
+        <text encoding="base64">dmFyIGh0dHBTZXJ2ZXIgPSBodHRwLmNyZWF0ZVNlcnZlcihhcHApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
+        <text encoding="base64">dmFyIGFwcCA9IGV4cHJlc3MoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7Cg==</text>
+        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdnCg==</text>
+        <text encoding="base64">dmFyIGh0dHAgPSByZXF1aXJlKCdodHRwJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
