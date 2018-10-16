@@ -33,6 +33,12 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539698278229">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="19" column="18" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -92,11 +98,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539692208858">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="6" column="198" />
-        <mark key="." line="6" column="198" />
+      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539697683883">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties" timestamp="1503772907052">
         <mark key="[" line="15" column="36" />
@@ -104,11 +110,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539695951753">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539698584321">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -309,13 +315,14 @@
       <jump line="30" column="24" filename="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" />
       <jump line="10" column="36" filename="D:/Develop/chatbot-fb/app/skills/conversations.js" />
       <jump line="0" column="6" filename="D:/Develop/chatbot-fb/app/controllers/db.js" />
+      <jump line="33" column="19" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW51XD4=</text>
@@ -323,32 +330,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZmZmZjEnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">YXN5bmMgKG5hbWUpID0+IHsKICAgIGxldCBiYmIgPSBhd2FpdCBnZXRDb2xsZWN0aW9uKG5hbWUpOwogICAgcmV0dXJuIGJiYjsKfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">bGV0IF9kYjsKZnVuY3Rpb24gZ2V0RGIoKSB7CiAgICBpZiAoIV9kYiB8fCAhX2RiLmlzQ29ubmVjdGVkKCkpIHsKICAgIH0gZWxzZQogICAgICAgIHJldHVybiBfZGI7Cgp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGdldCBkYigpIHsKICAgICAgICByZXR1cm4gX2RiIHx8IGdldENvbm5lY3Rpb24oKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMzAwMCkpOwogICAgY29ubmVjdCgpOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgY29sbGVjdGlvbiA9IGNsaWVudC5kYigndGVzdCcpLmNvbGxlY3Rpb24oJ2RldmljZXMnKTsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ2NvbGxlY3Rpb24xJywgY29sbGVjdGlvbi5maW5kKHt9KS50b0FycmF5KAogICAgICAgICAgICAvLyAgICAgZnVuY3Rpb24gKGVyciwgZG9jcykgewogICAgICAgICAgICAvLyAgICAgICAgIGNvbnNvbGUubG9nKCJGb3VuZCB0aGUgZm9sbG93aW5nIHJlY29yZHMiKTsKICAgICAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmxvZyhkb2NzKQogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyApKTsKICAgICAgICAgICAgLy8gcGVyZm9ybSBhY3Rpb25zIG9uIHRoZSBjb2xsZWN0aW9uIG9iamVjdAogICAgICAgICAgICAvLyBjbGllbnQuY2xvc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyJyk7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIH1jYXRjaCAoZSkge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGIuZG9uZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
