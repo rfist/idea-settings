@@ -33,13 +33,6 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539717080033">
-        <mark key="'" line="57" column="24" />
-        <mark key="[" line="94" column="8" />
-        <mark key="]" line="94" column="9" />
-        <mark key="." line="94" column="9" />
-        <mark key="^" line="94" column="9" />
-      </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -111,11 +104,16 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539716842532">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="74" />
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539720905579">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539722771079">
+        <mark key="[" line="39" column="12" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="38" column="13" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -130,10 +128,10 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539640174286">
+      <file name="/Dummy.txt" timestamp="1539721392023">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Develop/chatbot-fb/.gitignore" timestamp="1539526953343">
         <mark key="[" line="2" column="17" />
@@ -219,10 +217,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539637115316">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539722198282">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
       </file>
       <file name="/fragment.js2" timestamp="1503857123928">
         <mark key="[" line="0" column="0" />
@@ -239,11 +238,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539703825629">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="47" column="41" />
-        <mark key="." line="47" column="41" />
-        <mark key="^" line="47" column="41" />
+      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539720416271">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -328,49 +327,44 @@
       <jump line="57" column="24" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>to</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>postback</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnNlcnRPbmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFtlcnIsIHVzZXJdID0gYXdhaXQgdG8obmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgIHVzZXJzQ29sbGVjdGlvbi5pbnNlcnRPbmUodXNlciwgKGVycikgPT4gewogICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICByZWplY3QoZXJyKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlc29sdmUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfSkpOwogICAgaWYgKGVycikgewogICAgICAgIGxvZ2dlci5lcnJvcihgQ2FuJ3QgY3JlYXRlIHVzZXIgJHtKU09OLnN0cmluZ2lmeSh1c2VyKX0sIGVycm9yICR7ZXJyfWApCiAgICB9CiAgICByZXR1cm4gdXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1cmw6ICJtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHVwZGF0ZVVzZXIoaWQsIGRhdGEpIHsKICAgIGNvbnN0IFtlcnIsIHJlc3VsdF0gPSBhd2FpdCB0byggbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgdXNlcnNDb2xsZWN0aW9uLnVwZGF0ZSgKICAgICAgICB7IGlkIH0sCiAgICAgICAgewogICAgICRzZXQ6IGRhdGEKICAgfSwgKGVyciwgcmVzdWx0KSA9PiB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIHJlamVjdChlcnIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzb2x2ZShyZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0pKTsKICAgIGlmIChlcnIpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoYENhbid0IHVwZGF0ZSB1c2VyICR7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF5bG9hZDogJ2ludml0ZScsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5pdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRm91bmQgdGhlIGZvbGxvd2luZyByZWNvcmRzIik7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-       item: &quot;ABC123&quot;,
-       &quot;info.publisher&quot;: &quot;2222&quot;,
-       tags: [ &quot;software&quot; ],
-       &quot;ratings.1&quot;: { by: &quot;xyz&quot;, rating: 3 }
-     }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkb2NzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAkaW5jOiB7IHN0b2NrOiA1IH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ2Vycm9yIGJsYSBibGEgYmxhJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyMicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncjMnLCB1c2VyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JmaXN0JywgZXJyLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBkYi5jcmVhdGVVc2VyKHtuYW1lOiAidGVzdDMiLCBpZDogIm15aWQifSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
