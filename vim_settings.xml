@@ -33,11 +33,11 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539698278229">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539699869308">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="10" column="30" />
         <mark key="^" line="19" column="18" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
@@ -110,11 +110,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539698584321">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="10" />
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539699957066">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -238,6 +238,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539700029810">
+        <mark key="[" line="20" column="78" />
+        <mark key="]" line="20" column="81" />
+        <mark key="." line="20" column="81" />
+        <mark key="^" line="20" column="81" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="46" column="0" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
@@ -319,43 +325,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>https_port</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>https_port</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW51XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZmZmZjEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oYEh0dHBzIHNlcnZlciBoYXMgYmVlbiBzdGFydGVkIGF0ICR7d2Vic2VydmVyLmdldCgnaHR0cHNfcG9ydCcpfWApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdzdGFydGluZyB3ZWIgc2VydmVyLi4uJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IF9kYjsKZnVuY3Rpb24gZ2V0RGIoKSB7CiAgICBpZiAoIV9kYiB8fCAhX2RiLmlzQ29ubmVjdGVkKCkpIHsKICAgIH0gZWxzZQogICAgICAgIHJldHVybiBfZGI7Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBIdHRwIHNlcnZlciBjb25maWd1cmVkIGFuZCBsaXN0ZW5pbmcgYXQgaHR0cDovL2xvY2FsaG9zdDoke3dlYnNlcnZlci5nZXQoJ3BvcnQnKX1gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldCBkYigpIHsKICAgICAgICByZXR1cm4gX2RiIHx8IGdldENvbm5lY3Rpb24oKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc3QgY29sbGVjdGlvbiA9IGNsaWVudC5kYigndGVzdCcpLmNvbGxlY3Rpb24oJ2RldmljZXMnKTsKICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ2NvbGxlY3Rpb24xJywgY29sbGVjdGlvbi5maW5kKHt9KS50b0FycmF5KAogICAgICAgICAgICAvLyAgICAgZnVuY3Rpb24gKGVyciwgZG9jcykgewogICAgICAgICAgICAvLyAgICAgICAgIGNvbnNvbGUubG9nKCJGb3VuZCB0aGUgZm9sbG93aW5nIHJlY29yZHMiKTsKICAgICAgICAgICAgLy8gICAgICAgICBjb25zb2xlLmxvZyhkb2NzKQogICAgICAgICAgICAvLyAgICAgfQogICAgICAgICAgICAvLyApKTsKICAgICAgICAgICAgLy8gcGVyZm9ybSBhY3Rpb25zIG9uIHRoZSBjb2xsZWN0aW9uIG9iamVjdAogICAgICAgICAgICAvLyBjbGllbnQuY2xvc2UoKTsK</text>
+        <text encoding="base64">Y29uc3Qgbm9ybWFsaXplZFBhdGggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXBwJywgJ3NraWxscycpOwpmcy5yZWFkZGlyU3luYyhub3JtYWxpemVkUGF0aCkuZm9yRWFjaCgoZmlsZSkgPT4gewogICAgcmVxdWlyZShgLi9hcHAvc2tpbGxzLyR7ZmlsZX1gKShjb250cm9sbGVyKTsKfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd3RmJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH1jYXRjaCAoZSkge30K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd3RnJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGIuZG9uZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
