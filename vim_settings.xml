@@ -104,7 +104,7 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539694619029">
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539695951753">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="19" />
         <mark key="^" line="8" column="19" />
@@ -220,11 +220,12 @@
       <file name="/fragment.js2" timestamp="1503857123928">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/controllers/db.js" timestamp="1539694571261">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="D:/Develop/chatbot-fb/app/controllers/db.js" timestamp="1539695938342">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="43" />
+        <mark key="." line="42" column="43" />
+        <mark key="^" line="42" column="43" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties.example" timestamp="1503829075155">
         <mark key="[" line="14" column="0" />
@@ -307,13 +308,14 @@
       <jump line="64" column="0" filename="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" />
       <jump line="30" column="24" filename="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" />
       <jump line="10" column="36" filename="D:/Develop/chatbot-fb/app/skills/conversations.js" />
+      <jump line="0" column="6" filename="D:/Develop/chatbot-fb/app/controllers/db.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>client</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>client</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW51XD4=</text>
@@ -321,8 +323,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZmZmZjEnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">YXN5bmMgKG5hbWUpID0+IHsKICAgIGxldCBiYmIgPSBhd2FpdCBnZXRDb2xsZWN0aW9uKG5hbWUpOwogICAgcmV0dXJuIGJiYjsKfQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -331,22 +333,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMzAwMCkpOwogICAgY29ubmVjdCgpOwp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjbGllbnQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxJyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHNldFRpbWVvdXQocmVzb2x2ZSwgMzAwMCkpOwogICAgY29ubmVjdCgpOwp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcyJyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjbGllbnQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcxJyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
