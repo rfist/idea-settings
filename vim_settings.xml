@@ -33,11 +33,12 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539699869308">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="10" column="30" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="10" column="30" />
+      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539717080033">
+        <mark key="'" line="57" column="24" />
+        <mark key="[" line="94" column="8" />
+        <mark key="]" line="94" column="9" />
+        <mark key="." line="94" column="9" />
+        <mark key="^" line="94" column="9" />
       </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
@@ -98,11 +99,11 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539697683883">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="8" />
-        <mark key="." line="6" column="10" />
+      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539713669815">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties" timestamp="1503772907052">
         <mark key="[" line="15" column="36" />
@@ -110,11 +111,11 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539703832783">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="45" />
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539716842532">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="74" />
+        <mark key="." line="16" column="74" />
+        <mark key="^" line="16" column="74" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -322,63 +323,68 @@
       <jump line="10" column="36" filename="D:/Develop/chatbot-fb/app/skills/conversations.js" />
       <jump line="0" column="6" filename="D:/Develop/chatbot-fb/app/controllers/db.js" />
       <jump line="33" column="19" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="26" column="40" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="99" column="27" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="57" column="24" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>roiter</text>
+        <text>to</text>
       </register>
       <register name="-" type="4">
-        <text>roiter</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW51XD4=</text>
+        <text encoding="base64">XDxpbnNlcnRPbmVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oYENvbm5lY3QgJHtmaWxlfSByb3V0ZXJgKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFtlcnIsIHVzZXJdID0gYXdhaXQgdG8obmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgIHVzZXJzQ29sbGVjdGlvbi5pbnNlcnRPbmUodXNlciwgKGVycikgPT4gewogICAgICAgICAgICBpZiAoZXJyKSB7CiAgICAgICAgICAgICAgICByZWplY3QoZXJyKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlc29sdmUoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfSkpOwogICAgaWYgKGVycikgewogICAgICAgIGxvZ2dlci5lcnJvcihgQ2FuJ3QgY3JlYXRlIHVzZXIgJHtKU09OLnN0cmluZ2lmeSh1c2VyKX0sIGVycm9yICR7ZXJyfWApCiAgICB9CiAgICByZXR1cm4gdXNlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdzdGFydGluZyB3ZWIgc2VydmVyLi4uJyk7Cg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKGBIdHRwIHNlcnZlciBjb25maWd1cmVkIGFuZCBsaXN0ZW5pbmcgYXQgaHR0cDovL2xvY2FsaG9zdDoke3dlYnNlcnZlci5nZXQoJ3BvcnQnKX1gKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmFzeW5jIGZ1bmN0aW9uIHVwZGF0ZVVzZXIoaWQsIGRhdGEpIHsKICAgIGNvbnN0IFtlcnIsIHJlc3VsdF0gPSBhd2FpdCB0byggbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgdXNlcnNDb2xsZWN0aW9uLnVwZGF0ZSgKICAgICAgICB7IGlkIH0sCiAgICAgICAgewogICAgICRzZXQ6IGRhdGEKICAgfSwgKGVyciwgcmVzdWx0KSA9PiB7CiAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgIHJlamVjdChlcnIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzb2x2ZShyZXN1bHQpOwogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgIH0pKTsKICAgIGlmIChlcnIpIHsKICAgICAgICBsb2dnZXIuZXJyb3IoYENhbid0IHVwZGF0ZSB1c2VyICR7</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgbm9ybWFsaXplZFBhdGggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXBwJywgJ3NraWxscycpOwpmcy5yZWFkZGlyU3luYyhub3JtYWxpemVkUGF0aCkuZm9yRWFjaCgoZmlsZSkgPT4gewogICAgcmVxdWlyZShgLi9hcHAvc2tpbGxzLyR7ZmlsZX1gKShjb250cm9sbGVyKTsKfSk7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+       item: &quot;ABC123&quot;,
+       &quot;info.publisher&quot;: &quot;2222&quot;,
+       tags: [ &quot;software&quot; ],
+       &quot;ratings.1&quot;: { by: &quot;xyz&quot;, rating: 3 }
+     }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd3RmJyk7Cg==</text>
+        <text encoding="base64">ICAgICAkaW5jOiB7IHN0b2NrOiA1IH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd3RnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyMicpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JmaXN0JywgZXJyLCByZXN1bHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW51XD4=</last-search>
+      <last-search encoding="base64">XDxpbnNlcnRPbmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW51XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbnNlcnRPbmVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Stud</entry>
-        <entry encoding="base64">XDxTdHVkZW50XD4=</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxfcHJvY3RvcklQXD4=</entry>
         <entry encoding="base64">XDxteUxvYWRlclw+</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
@@ -396,6 +402,9 @@
         <entry encoding="base64">XDxWRVJJRllfVE9LRU5cPg==</entry>
         <entry encoding="base64">XDx3b3JkZmlsdGVyXD4=</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
+        <entry>insertONe</entry>
+        <entry>insert</entry>
+        <entry encoding="base64">XDxpbnNlcnRPbmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
