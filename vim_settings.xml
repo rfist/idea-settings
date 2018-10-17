@@ -33,6 +33,13 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="D:/Develop/chatbot-fb/app/controllers/mongo.js" timestamp="1539753428769">
+        <mark key="'" line="26" column="15" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="113" column="12" />
+      </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -52,12 +59,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="199" column="33" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" timestamp="1539637264091">
+      <file name="D:/Develop/chatbot-fb/app/routes/incoming_webhooks.js" timestamp="1539752492685">
         <mark key="'" line="64" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="31" column="41" />
-        <mark key="." line="34" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" timestamp="1520629632336">
         <mark key="'" line="4" column="9" />
@@ -92,7 +98,7 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539713669815">
+      <file name="D:/Develop/chatbot-fb/.env" timestamp="1539752452195">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
@@ -109,11 +115,11 @@
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539722771079">
-        <mark key="[" line="39" column="12" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="38" column="13" />
-        <mark key="." line="39" column="0" />
+      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539754330815">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="39" />
+        <mark key="^" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -217,11 +223,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539722198282">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
+      <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539754284648">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="/fragment.js2" timestamp="1503857123928">
         <mark key="[" line="0" column="0" />
@@ -322,49 +328,51 @@
       <jump line="10" column="36" filename="D:/Develop/chatbot-fb/app/skills/conversations.js" />
       <jump line="0" column="6" filename="D:/Develop/chatbot-fb/app/controllers/db.js" />
       <jump line="33" column="19" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="26" column="40" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
       <jump line="99" column="27" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="57" column="24" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="57" column="0" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="113" column="8" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="114" column="0" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="26" column="15" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>db</text>
       </register>
       <register name="-" type="4">
-        <text>postback</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnNlcnRPbmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1cmw6ICJtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ewogIHR5cGU6ICd0ZW1wbGF0ZScsCiAgcGF5bG9hZDogewogICAgdGVtcGxhdGVfdHlwZTogJ2dlbmVyaWMnLAogICAgZWxlbWVudHM6IFsKICAgICAgewogICAgICAgIHRpdGxlOiAnTWFpbiBNZW51JywKICAgICAgICBpbWFnZV91cmw6ICdodHRwczovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iLzMvM2IvRmFjZWJvb2tfTWVzc2VuZ2VyX2xvZ28uc3ZnLzEyMDBweC1GYWNlYm9va19NZXNzZW5nZXJfbG9nby5zdmcucG5nJywKICAgICAgICBzdWJ0aXRsZTogJ0NoYXRib3QgbWVudScsCiAgICAgICAgYnV0dG9uczogWwogICAgICAgICAgewogICAgICAgICAgICB0eXBlOiAncG9zdGJhY2snLAogICAgICAgICAgICB0aXRsZTogJ015IHB1cmNoYXNlcycsCiAgICAgICAgICAgIHBheWxvYWQ6ICdwdXJjaGFzZXMnLAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3Bvc3RiYWNrJywKICAgICAgICAgICAgdGl0bGU6ICdTaG9wJywKICAgICAgICAgICAgcGF5bG9hZDogJ3Nob3AnLAogICAgICAgICAgfSwKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3Bvc3RiYWNrJywKICAgICAgICAgICAgdGl0bGU6ICdGYXZvcml0ZXMnLAogICAgICAgICAgICBwYXlsb2FkOiAnZmF2b3JpdGVzJywKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAnVG8gaW52aXRlIGEgZnJpZW5kJywKICAgICAgICBpbWFnZV91cmw6ICdodHRwczovL3VwbG9hZC53aWtpbWVkaWEub3JnL3dpa2lwZWRpYS9jb21tb25zL3RodW1iLzMvM2IvRmFjZWJvb2tfTWVzc2VuZ2VyX2xvZ28uc3ZnLzEyMDBweC1GYWNlYm9va19NZXNzZW5nZXJfbG9nby5zdmcucG5nJywKICAgICAgICBkZWZhdWx0X2FjdGlvbjogewogICAgICAgICAgICAgIHR5cGU6ICJ3ZWJfdXJsIiwKICAgICAgICAgICAgICB1cmw6ICJtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmIgogICAgICAgICAgICB9LAogICAgICAgIGJ1dHRvbnM6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdHlwZTogImVsZW1lbnRfc2hhcmUiLAogICAgICAgICAgICAgICAgc2hhcmVfY29udGVudHM6IHsKICAgICAgICAgICAgICAgICAgYXR0YWNobWVudDogewogICAgICAgICAgICAgICAgICAgIHR5cGU6ICJ0ZW1wbGF0ZSIsCiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVfdHlwZTogImdlbmVyaWMiLAogICAgICAgICAgICAgICAgICAgICAgZWxlbWVudHM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICJJJ3ZlIGZvdW5kIGFtYXppbmcgYm90ISIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VfdXJsOiAiaHR0cHM6Ly92aWduZXR0ZS53aWtpYS5ub2Nvb2tpZS5uZXQvZW4uZnV0dXJhbWEvaW1hZ2VzL2YvZjYvUHJvZmVzc29yLWZhcm5zd29ydGguanBnL3JldmlzaW9uL2xhdGVzdD9jYj0yMDEyMDIyNjA3MzgzMyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdF9hY3Rpb246IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU6ICJ3ZWJfdXJsIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXJsOiAiaHR0cDovL20ubWUvMjE4Mzc3NTUwMTk0NTEwOCY/cmVmPXRlc3RyZWYiCiAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICBidXR0b25zOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogIndlYl91cmwiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdXJsOiAiaHR0cDovL20ubWUvMjE4Mzc3NTUwMTk0NTEwOCY/cmVmPXRlc3RyZWYiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogIkNoZWNrIGl0IG91dCEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9fQogICAgICAgIF0sCiAgICAgIH0sCiAgICBdLAogIH0sCn07</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bG9hZDogJ2ludml0ZScsCg==</text>
+        <text encoding="base64">ICAgIHNhdmVSCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygiRm91bmQgdGhlIGZvbGxvd2luZyByZWNvcmRzIik7Cg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gc2F2ZVJlZmVycmFsKHJlZikgewogICAgY29uc3QgW2Vycl0gPSBhd2FpdCB0byhuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgICAgcmVmZXJyYWxzQ29sbGVjdGlvbi5pbnNlcnRPbmUocmVmLCAoZXJyb3IpID0+IHsKICAgICAgICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgICAgICAgICByZWplY3QoZXJyb3IpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzb2x2ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9KSk7CiAgICBpZiAoZXJyKSB7CiAgICAgICAgbG9nZ2VyLmVycm9yKGBDYW4ndCBzYXZlIHJlZmVycmFsICR7cmVmfSwgZXJyb3IgJHtlcnJ9YCk7CiAgICB9CiAgICByZXR1cm4gdHJ1ZTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkb2NzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJ0aXRsZTogIk15IHJlc3VsdDogRmV6IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoJ2Vycm9yIGJsYSBibGEgYmxhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3dlYl91cmwnLAogICAgICAgICAgICB0aXRsZTogJ1NoYXJlJywKICAgICAgICAgICAgICB1cmw6ICJtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmIgogICAgICAgICAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZV91cmw6ICJodHRwczovL3ZpZ25ldHRlLndpa2lhLm5vY29va2llLm5ldC9lbi5mdXR1cmFtYS9pbWFnZXMvZi9mNi9Qcm9mZXNzb3ItZmFybnN3b3J0aC5qcGcvcmV2aXNpb24vbGF0ZXN0P2NiPTIwMTIwMjI2MDczODMzIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncjMnLCB1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJ0aXRsZTogIk15IHJlc3VsdDogRmV6IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBkYi5jcmVhdGVVc2VyKHtuYW1lOiAidGVzdDMiLCBpZDogIm15aWQifSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ3dlYl91cmwnLAogICAgICAgICAgICB0aXRsZTogJ1NoYXJlJywKICAgICAgICAgICAgICB1cmw6ICJtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmIgogICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -459,6 +467,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
