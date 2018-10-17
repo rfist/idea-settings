@@ -108,10 +108,16 @@
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539761574313">
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="51" column="58" />
-        <mark key="." line="51" column="58" />
+      <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539766586321">
+        <mark key="[" line="35" column="44" />
+        <mark key="]" line="35" column="44" />
+        <mark key="." line="35" column="44" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/postbacks.js" timestamp="1539767055148">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="2" column="36" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/work/sf/ConnectionUtils/src/Main.as" timestamp="1503768846103">
         <mark key="'" line="14" column="21" />
@@ -328,8 +334,8 @@
       <jump line="0" column="0" filename="D:/Develop/chatbot-fb/app/components/menu.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Jg==</text>
@@ -340,32 +346,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVybDogYGh0dHA6Ly9tLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj0ke3JlZn1gLAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ewogICAgICB0eXBlOiAndGVtcGxhdGUnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgdGVtcGxhdGVfdHlwZTogJ2dlbmVyaWMnLAogICAgICAgIGVsZW1lbnRzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHRpdGxlOiAnTWFpbiBNZW51JywKICAgICAgICAgICAgaW1hZ2VfdXJsOiAnaHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy90aHVtYi8zLzNiL0ZhY2Vib29rX01lc3Nlbmdlcl9sb2dvLnN2Zy8xMjAwcHgtRmFjZWJvb2tfTWVzc2VuZ2VyX2xvZ28uc3ZnLnBuZycsCiAgICAgICAgICAgIHN1YnRpdGxlOiAnQ2hhdGJvdCBtZW51JywKICAgICAgICAgICAgYnV0dG9uczogWwogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHR5cGU6ICdwb3N0YmFjaycsCiAgICAgICAgICAgICAgICB0aXRsZTogJ015IHB1cmNoYXNlcycsCiAgICAgICAgICAgICAgICBwYXlsb2FkOiAncHVyY2hhc2VzJywKICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHR5cGU6ICdwb3N0YmFjaycsCiAgICAgICAgICAgICAgICB0aXRsZTogJ1Nob3AnLAogICAgICAgICAgICAgICAgcGF5bG9hZDogJ3Nob3AnLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdHlwZTogJ3Bvc3RiYWNrJywKICAgICAgICAgICAgICAgIHRpdGxlOiAnRmF2b3JpdGVzJywKICAgICAgICAgICAgICAgIHBheWxvYWQ6ICdmYXZvcml0ZXMnLAogICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIF0sCiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICB0aXRsZTogJ1RvIGludml0ZSBhIGZyaWVuZCcsCiAgICAgICAgICAgIGltYWdlX3VybDogJ2h0dHBzOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraXBlZGlhL2NvbW1vbnMvdGh1bWIvMy8zYi9GYWNlYm9va19NZXNzZW5nZXJfbG9nby5zdmcvMTIwMHB4LUZhY2Vib29rX01lc3Nlbmdlcl9sb2dvLnN2Zy5wbmcnLAogICAgICAgICAgICBkZWZhdWx0X2FjdGlvbjogewogICAgICAgICAgICAgIHR5cGU6ICd3ZWJfdXJsJywKICAgICAgICAgICAgICAgIHVybDogYGh0dHA6Ly9tLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj0ke3JlZn1gLAogICAgICAgICAgICB9LAogICAgICAgICAgICBidXR0b25zOiBbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdHlwZTogJ2VsZW1lbnRfc2hhcmUnLAogICAgICAgICAgICAgICAgc2hhcmVfY29udGVudHM6IHsKICAgICAgICAgICAgICAgICAgYXR0YWNobWVudDogewogICAgICAgICAgICAgICAgICAgIHR5cGU6ICd0ZW1wbGF0ZScsCiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZDogewogICAgICAgICAgICAgICAgICAgICAgdGVtcGxhdGVfdHlwZTogJ2dlbmVyaWMnLAogICAgICAgICAgICAgICAgICAgICAgZWxlbWVudHM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAiSSd2ZSBmb3VuZCBhbWF6aW5nIGJvdCEiLAogICAgICAgICAgICAgICAgICAgICAgICAgIGltYWdlX3VybDogJ2h0dHBzOi8vdmlnbmV0dGUud2lraWEubm9jb29raWUubmV0L2VuLmZ1dHVyYW1hL2ltYWdlcy9mL2Y2L1Byb2Zlc3Nvci1mYXJuc3dvcnRoLmpwZy9yZXZpc2lvbi9sYXRlc3Q/Y2I9MjAxMjAyMjYwNzM4MzMnLAogICAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHRfYWN0aW9uOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlOiAnd2ViX3VybCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmw6IGBodHRwOi8vbS5tZS8yMTgzNzc1NTAxOTQ1MTA4Jj9yZWY9JHtyZWZ9YCwKICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgIGJ1dHRvbnM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZTogJ3dlYl91cmwnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cmw6IGBodHRwOi8vbS5tZS8yMTgzNzc1NTAxOTQ1MTA4Jj9yZWY9JHtyZWZ9YCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU6ICdDaGVjayBpdCBvdXQhJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgXSwKICAgICAgICAgIH0sCiAgICAgICAgXSwKICAgICAgfSwKICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuLi9jb250cm9sbGVycy9tb25nbycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB1cmw6ICdtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmJywK</text>
+        <text encoding="base64">Y29uc3QgZGIgPSByZXF1aXJlKCcuLi9jb250cm9sbGVycy9tb25nbycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB1cmw6ICdtLm1lLzIxODM3NzU1MDE5NDUxMDgmP3JlZj10ZXN0cmVmJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRiLnNhdmVSZWZlcnJhbChyZWYsIHNlbmRlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRiLnNhdmVSZWZlcnJhbChyZWYsIHNlbmRlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
