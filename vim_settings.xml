@@ -3,18 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.js" timestamp="1520588502835">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="8" column="66" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" timestamp="1539636274953">
-        <mark key="e" line="24" column="24" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/Develop/cc-demo/creator.d.ts" timestamp="1540246350904">
+        <mark key="'" line="2496" column="46" />
       </file>
       <file name="D:/work/sf/proctoru/bin/ProctorApp-app.xml" timestamp="1485382021899">
         <mark key="[" line="20" column="21" />
@@ -33,12 +23,6 @@
         <mark key="]" line="130" column="2" />
         <mark key="." line="130" column="2" />
         <mark key="^" line="130" column="15" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="29" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_7_0.test.js" timestamp="1520676987558">
         <mark key="[" line="15" column="26" />
@@ -66,31 +50,16 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_7_0.js" timestamp="1520676940569">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-      </file>
-      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameoverstate.ts" timestamp="1540231391920">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="54" />
-        <mark key="^" line="11" column="54" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameoverstate.ts" timestamp="1540248669633">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/package.json" timestamp="1520629912789">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
-      </file>
-      <file name="D:/Develop/cc-demo/.gitignore" timestamp="1540231023428">
-        <mark key="[" line="60" column="6" />
-        <mark key="]" line="61" column="5" />
-        <mark key="^" line="61" column="5" />
-        <mark key="." line="61" column="5" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/sample_hears.js" timestamp="1539619038732">
-        <mark key="'" line="11" column="26" />
       </file>
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SchedulingAPI.as" timestamp="1503829175948">
         <mark key="[" line="30" column="0" />
@@ -109,17 +78,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
-      </file>
-      <file name="D:/work/sf/proctoru-student/crypt/build/build.properties" timestamp="1503772907052">
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="39" />
-        <mark key="^" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539720905579">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/components/menu.js" timestamp="1539771213438">
         <mark key="[" line="2" column="47" />
@@ -140,28 +98,11 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="20" column="26" />
       </file>
-      <file name="D:/work/sf/proctoru-student/crypt/build/build.xml" timestamp="1503772709822">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="40" />
-        <mark key="." line="11" column="40" />
-        <mark key="^" line="11" column="40" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1540234368271">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="D:/Develop/chatbot-fb/.gitignore" timestamp="1539526953343">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="3" column="3" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
-      </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_1.js" timestamp="1520588847767">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="20" column="31" />
-        <mark key="." line="20" column="31" />
-        <mark key="^" line="20" column="31" />
       </file>
       <file name="D:/Develop/morgan-roche/index.ts" timestamp="1532371818668">
         <mark key="[" line="6" column="9" />
@@ -181,23 +122,9 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="D:/work/sf/proctoru-student/scripts/com/util/StateHolder.as" timestamp="1503763548270">
-        <mark key="'" line="154" column="19" />
-        <mark key="[" line="159" column="8" />
-        <mark key="]" line="159" column="4" />
-        <mark key="^" line="159" column="4" />
-        <mark key="." line="159" column="4" />
-      </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.test.js" timestamp="1520585951713">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="6" column="58" />
-      </file>
-      <file name="D:/work/sf/proctoru-student/crypt/Main.as" timestamp="1503772960968">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/gamecontroller.ts" timestamp="1540247036073">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="0" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_1.test.js" timestamp="1520588853016">
         <mark key="[" line="3" column="49" />
@@ -223,23 +150,122 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/Solutions.js" timestamp="1521415009049">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-      </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" timestamp="1540235022903">
-        <mark key="[" line="19" column="43" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="D:/work/sf/proctoru-student/crypt/build/build.properties.example" timestamp="1503829075155">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539720416271">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="17" />
+      </file>
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gamestate.ts" timestamp="1540247023051" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.js" timestamp="1520588502835">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="8" column="66" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" timestamp="1539636274953">
+        <mark key="e" line="24" column="24" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_7_0.js" timestamp="1520676940569">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+      </file>
+      <file name="D:/Develop/cc-demo/.gitignore" timestamp="1540231023428">
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="61" column="5" />
+        <mark key="^" line="61" column="5" />
+        <mark key="." line="61" column="5" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/app/skills/sample_hears.js" timestamp="1539619038732">
+        <mark key="'" line="11" column="26" />
+      </file>
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stone.ts" timestamp="1540249025468">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="15" column="90" />
+      </file>
+      <file name="D:/work/sf/proctoru-student/crypt/build/build.properties" timestamp="1503772907052">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="39" />
+        <mark key="^" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+      </file>
+      <file name="D:/Develop/chatbot-fb/server.js" timestamp="1539720905579">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
+      <file name="D:/work/sf/proctoru-student/crypt/build/build.xml" timestamp="1503772709822">
+        <mark key="[" line="11" column="38" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540234368271">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_1.js" timestamp="1520588847767">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+      </file>
+      <file name="D:/work/sf/proctoru-student/scripts/com/util/StateHolder.as" timestamp="1503763548270">
+        <mark key="'" line="154" column="19" />
+        <mark key="[" line="159" column="8" />
+        <mark key="]" line="159" column="4" />
+        <mark key="^" line="159" column="4" />
+        <mark key="." line="159" column="4" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.test.js" timestamp="1520585951713">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+        <mark key="^" line="6" column="58" />
+      </file>
+      <file name="D:/work/sf/proctoru-student/crypt/Main.as" timestamp="1503772960968">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/Solutions.js" timestamp="1521415009049">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="D:/Develop/cc-demo/assets/source/project-name/appcontroller.ts" timestamp="1540247017192" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" timestamp="1540249562800">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="11" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539771144642">
         <mark key="[" line="8" column="0" />
@@ -253,17 +279,6 @@
         <mark key="]" line="42" column="43" />
         <mark key="." line="42" column="43" />
         <mark key="^" line="42" column="43" />
-      </file>
-      <file name="D:/work/sf/proctoru-student/crypt/build/build.properties.example" timestamp="1503829075155">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/components/express_webserver.js" timestamp="1539720416271">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="17" />
-        <mark key="." line="32" column="17" />
-        <mark key="^" line="32" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -353,62 +368,74 @@
       <jump line="0" column="0" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
       <jump line="130" column="11" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
       <jump line="42" column="15" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
+      <jump line="883" column="4" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2044" column="26" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2057" column="26" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2058" column="24" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2465" column="19" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2476" column="32" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2488" column="138" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2489" column="61" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2495" column="47" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="2496" column="46" filename="D:/Develop/cc-demo/creator.d.ts" />
+      <jump line="25" column="32" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
+      <jump line="23" column="8" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
+      <jump line="26" column="4" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
+      <jump line="27" column="21" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnN0IHN0b25lID0gdGhpcy5ub2RlLmdldENoaWxkQnlOYW1lKCdTdG9uZScpOwogICAgICAgY29uc3QgYWN0aW9uVG8gPSBjYy5tb3ZlVG8oMSwgc3RvbmUueCArIDgwMCxzdG9uZS55IC0gNzApOwogICAgICAgc3RvbmUucnVuQWN0aW9uKGFjdGlvblRvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRSZWZlcnJhbFw+</text>
+        <text>animate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnN0IHN0b25lID0gdGhpcy5ub2RlLmdldENoaWxkQnlOYW1lKCdzdG9uZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLndhcnJpb3IgPSB0aGlzLm5vZGUuZ2V0Q2hpbGRCeU5hbWUoJ3VuaXQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnN0IHN0b25lID0gdGhpcy5ub2RlLmdldENoaWxkQnlOYW1lKCdTdG9uZScpOwogICAgICAgY29uc3QgYWN0aW9uVG8gPSBjYy5tb3ZlVG8oMSwgc3RvbmUueCArIDgwMCxzdG9uZS55IC0gNzApOwogICAgICAgc3RvbmUucnVuQWN0aW9uKGFjdGlvblRvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnN0IGFjdGlvblRvID0gY2MubW92ZVRvKDIsIDEwMCwgMTAwKTsKICAgICAgIHN0b25lLnJ1bkFjdGlvbihhY3Rpb25Ubyk7Cg==</text>
+        <text encoding="base64">ICAgICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgb25GaW5pc2hlZCgpIHsKICAgICAgIGNvbnNvbGUubG9nKCdmaW5pc2hlZCEhIScpOwogICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIHRoaXMud2Fycmlvci5nZXRDb21wb25lbnQoY2MuQW5pbWF0aW9uKS5wbGF5KCd0aHJvdycpLCA1ICogMTAwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCd5ZWVlZWVlZWVlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ3V0IGl0JywgdGhpcy5fbm9kZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0b25lLmFuaW1hdGUoKTsKICAgICAgICB0aGlzLndhcnJpb3IuZ2V0Q29tcG9uZW50KGNjLkFuaW1hdGlvbikucGxheSgnaWRsZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKCdyZmlzdCcsIHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgndW5pdCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzdG9uZSA9IHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgnc3RvbmUnKTsKICAgICAgICAvLyBjb25zb2xlLmxvZygnc3RvbmUgcG9zJywgc3RvbmUueCk7CiAgICAgICAgLy8gdGhpcy5ub2RlLmdldENoaWxkQnlOYW1lKCdzdG9uZScpLnNldFBvc2l0aW9uKHN0b25lLnggKyA1LCBzdG9uZS55KTsKICAgICAgICAvLyBjb25zdCBhY3Rpb25UbyA9IGNjLm1vdmVCeSgyLCAgY2MudjIoc3RvbmUueCArIDUsICBzdG9uZS55ICsgNSkpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRSZWZlcnJhbFw+</last-search>
+      <last-search>animate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRSZWZlcnJhbFw+</last-pattern>
+      <last-pattern>animate</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxteUxvYWRlclw+</entry>
-        <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxwdXp6bGVOdW1iZXJcPg==</entry>
         <entry encoding="base64">XDxhZG1peGVyXD4=</entry>
         <entry>admix</entry>
@@ -427,6 +454,8 @@
         <entry>insert</entry>
         <entry encoding="base64">XDxpbnNlcnRPbmVcPg==</entry>
         <entry encoding="base64">XDxnZXRSZWZlcnJhbFw+</entry>
+        <entry>callback</entry>
+        <entry>animate</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
