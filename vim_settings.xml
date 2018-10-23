@@ -409,7 +409,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>interval</text>
+        <text>scene</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIHRoaXMudmlldy53YXJyaW9yLmdldENvbXBvbmVudChjYy5BbmltYXRpb24pLm9uKCdmaW5pc2hlZCcsICgpID0+IHRoaXMuYW5pbWF0ZVN0b25lVGhyb3dpbmcoKSwgdGhpcy52aWV3LndhcnJpb3IpOwo=</text>
@@ -446,18 +446,14 @@
       </register>
     </registers>
     <search>
-      <last-search>interval</last-search>
+      <last-search>scene</last-search>
       <last-offset />
-      <last-pattern>interval</last-pattern>
+      <last-pattern>scene</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>baner</entry>
-        <entry>banner</entry>
-        <entry>video</entry>
-        <entry encoding="base64">XDxCQ19uZXdib3JuX3ZpZGVvMl9VU19FQVNUXD4=</entry>
         <entry encoding="base64">XDxCQ19uZXdib3JuX3ZpZGVvX1VTX0VBU1RcPg==</entry>
         <entry>inmobi</entry>
         <entry>inmoby</entry>
@@ -474,6 +470,10 @@
         <entry encoding="base64">XDwxMFw+</entry>
         <entry encoding="base64">XDxzdG9uZUFuaW1hdGlvblw+</entry>
         <entry>interval</entry>
+        <entry>splash</entry>
+        <entry>fire</entry>
+        <entry>assets</entry>
+        <entry>scene</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
