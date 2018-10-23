@@ -3,8 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Develop/cc-demo/creator.d.ts" timestamp="1540246350904">
+      <file name="D:/work/smartyads/ad/adexchange/temp/empty_crid.txt" timestamp="1535373400656">
+        <mark key="[" line="1" column="43" />
+      </file>
+      <file name="/a.dummy" timestamp="1540293936601">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Develop/cc-demo/creator.d.ts" timestamp="1540287369372">
         <mark key="'" line="2496" column="46" />
+        <mark key="[" line="932" column="0" />
+        <mark key="]" line="932" column="56" />
       </file>
       <file name="D:/work/sf/proctoru/bin/ProctorApp-app.xml" timestamp="1485382021899">
         <mark key="[" line="20" column="21" />
@@ -50,10 +58,10 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameoverstate.ts" timestamp="1540248669633">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameoverstate.ts" timestamp="1540293874561">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="16" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/package.json" timestamp="1520629912789">
@@ -156,11 +164,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/gameview.ts" timestamp="1540285805451">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="28" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/gameview.ts" timestamp="1540294600179">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties.example" timestamp="1503829075155">
         <mark key="[" line="14" column="0" />
@@ -173,19 +181,23 @@
         <mark key="." line="32" column="17" />
         <mark key="^" line="32" column="17" />
       </file>
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stoneAnimation.ts" timestamp="1540293216435">
+        <mark key="[" line="9" column="84" />
+        <mark key="]" line="9" column="84" />
+        <mark key="^" line="9" column="83" />
+        <mark key="." line="9" column="84" />
+      </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gamestate.ts" timestamp="1540247023051" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/gameview.js" timestamp="1540293140380">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.js" timestamp="1520588502835">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="8" column="66" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/sample_conversations.js" timestamp="1539636274953">
-        <mark key="e" line="24" column="24" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="24" column="27" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
@@ -204,9 +216,6 @@
         <mark key="]" line="61" column="5" />
         <mark key="^" line="61" column="5" />
         <mark key="." line="61" column="5" />
-      </file>
-      <file name="D:/Develop/chatbot-fb/app/skills/sample_hears.js" timestamp="1539619038732">
-        <mark key="'" line="11" column="26" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stone.ts" timestamp="1540249025468">
         <mark key="[" line="9" column="0" />
@@ -231,7 +240,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540284461878">
+      <file name="/Dummy.txt" timestamp="1540294680809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -267,17 +276,21 @@
         <mark key="." line="18" column="24" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/appcontroller.ts" timestamp="1540247017192" />
-      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" timestamp="1540285744215">
-        <mark key="[" line="34" column="17" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
-        <mark key="^" line="34" column="21" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" timestamp="1540294304366">
+        <mark key="'" line="2" column="42" />
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="32" column="16" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539771144642">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="0" column="39" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/fragment.js2" timestamp="1503857123928">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/controllers/db.js" timestamp="1539695938342">
         <mark key="'" line="0" column="6" />
@@ -288,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
-      <jump line="39" column="13" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
-      <jump line="41" column="0" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
       <jump line="37" column="7" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
       <jump line="35" column="0" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
       <jump line="34" column="0" filename="D:/work/plastun-server/plastun/app/plastunConnector.js" />
@@ -388,63 +398,63 @@
       <jump line="23" column="8" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
       <jump line="26" column="4" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
       <jump line="27" column="21" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
+      <jump line="15" column="62" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stoneAnimation.ts" />
+      <jump line="50" column="39" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
+      <jump line="2" column="42" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMud2FycmlvciA9IHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgndW5pdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmRzZnNkZGQnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>warrior</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>animate</text>
+        <text>interval</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgd2FycmlvcjogY2MuTm9kZSA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgIHRoaXMudmlldy53YXJyaW9yLmdldENvbXBvbmVudChjYy5BbmltYXRpb24pLm9uKCdmaW5pc2hlZCcsICgpID0+IHRoaXMuYW5pbWF0ZVN0b25lVGhyb3dpbmcoKSwgdGhpcy52aWV3LndhcnJpb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMud2FycmlvciA9IHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgndW5pdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmRzZnNkZGQnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdhcnJpb3I7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPz8/JywgdGhpcy5sYlNjb3JlLCB0aGlzLndhcnJpb3IpOwo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgc3RvbmU6IGNjLk5vZGUgPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zdG9uZUFuaW1hdGlvbiA9IG5ldyBBbmltYXRpb24oc3RvbmUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5MYWJlbCkKICAgIGxiTm9uZTogY2MuTGFiZWwgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHN0b25lQW5pbWF0aW9uOiBBbmltYXRpb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIF95OiBudW1iZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF94OiBudW1iZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMud2Fycmlvci5nZXRDb21wb25lbnQoY2MuQW5pbWF0aW9uKS5wbGF5KCd0aHJvdycpLCA1ICogMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZnVja2luZyBnYW1ldmlldyBjb21wb25lbnQnLCB0aGlzLnN0b25lUHJlZmFiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search>animate</last-search>
+      <last-search>interval</last-search>
       <last-offset />
-      <last-pattern>animate</last-pattern>
+      <last-pattern>interval</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdXp6bGVOdW1iZXJcPg==</entry>
-        <entry encoding="base64">XDxhZG1peGVyXD4=</entry>
-        <entry>admix</entry>
         <entry>baner</entry>
         <entry>banner</entry>
         <entry>video</entry>
@@ -462,6 +472,9 @@
         <entry encoding="base64">XDxnZXRSZWZlcnJhbFw+</entry>
         <entry>callback</entry>
         <entry>animate</entry>
+        <entry encoding="base64">XDwxMFw+</entry>
+        <entry encoding="base64">XDxzdG9uZUFuaW1hdGlvblw+</entry>
+        <entry>interval</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
