@@ -156,6 +156,12 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/gameview.ts" timestamp="1540285805451">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="28" />
+        <mark key="^" line="22" column="28" />
+        <mark key="." line="22" column="28" />
+      </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties.example" timestamp="1503829075155">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -225,7 +231,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540234368271">
+      <file name="/Dummy.txt" timestamp="1540284461878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -261,11 +267,11 @@
         <mark key="." line="18" column="24" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/appcontroller.ts" timestamp="1540247017192" />
-      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" timestamp="1540249562800">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="11" />
+      <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" timestamp="1540285744215">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539771144642">
         <mark key="[" line="8" column="0" />
@@ -385,43 +391,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgIHRoaXMud2FycmlvciA9IHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgndW5pdCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>warrior</text>
       </register>
       <register name="/" type="4">
         <text>animate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndhcnJpb3IgPSB0aGlzLm5vZGUuZ2V0Q2hpbGRCeU5hbWUoJ3VuaXQnKTsK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgd2FycmlvcjogY2MuTm9kZSA9IG51bGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gCg==</text>
+        <text encoding="base64">ICAgICAgIHRoaXMud2FycmlvciA9IHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgndW5pdCcpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgIHdhcnJpb3I7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPz8/JywgdGhpcy5sYlNjb3JlLCB0aGlzLndhcnJpb3IpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHRoaXMud2Fycmlvci5nZXRDb21wb25lbnQoY2MuQW5pbWF0aW9uKS5wbGF5KCd0aHJvdycpLCA1ICogMTAwMCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ3V0IGl0JywgdGhpcy5fbm9kZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5MYWJlbCkKICAgIGxiTm9uZTogY2MuTGFiZWwgPSBudWxsOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0gCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0b25lLmFuaW1hdGUoKTsKICAgICAgICB0aGlzLndhcnJpb3IuZ2V0Q29tcG9uZW50KGNjLkFuaW1hdGlvbikucGxheSgnaWRsZScpOwo=</text>
+        <text encoding="base64">ICAgICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzdG9uZSA9IHRoaXMubm9kZS5nZXRDaGlsZEJ5TmFtZSgnc3RvbmUnKTsKICAgICAgICAvLyBjb25zb2xlLmxvZygnc3RvbmUgcG9zJywgc3RvbmUueCk7CiAgICAgICAgLy8gdGhpcy5ub2RlLmdldENoaWxkQnlOYW1lKCdzdG9uZScpLnNldFBvc2l0aW9uKHN0b25lLnggKyA1LCBzdG9uZS55KTsKICAgICAgICAvLyBjb25zdCBhY3Rpb25UbyA9IGNjLm1vdmVCeSgyLCAgY2MudjIoc3RvbmUueCArIDUsICBzdG9uZS55ICsgNSkpOwoK</text>
+        <text encoding="base64">ICAgICAgIHRoaXMud2Fycmlvci5nZXRDb21wb25lbnQoY2MuQW5pbWF0aW9uKS5wbGF5KCd0aHJvdycpLCA1ICogMTAwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
