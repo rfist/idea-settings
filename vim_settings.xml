@@ -211,11 +211,10 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="D:/Develop/cc-demo/.gitignore" timestamp="1540231023428">
-        <mark key="[" line="60" column="6" />
-        <mark key="]" line="61" column="5" />
-        <mark key="^" line="61" column="5" />
-        <mark key="." line="61" column="5" />
+      <file name="D:/Develop/cc-demo/.gitignore" timestamp="1540296971030">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stone.ts" timestamp="1540249025468">
         <mark key="[" line="9" column="0" />
@@ -240,7 +239,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540294680809">
+      <file name="/Dummy.txt" timestamp="1540296991466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -404,7 +403,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmRzZnNkZGQnKQo=</text>
+        <text encoding="base64">Ki5tZXRhCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -416,31 +415,31 @@
         <text encoding="base64">ICAgICAgIHRoaXMudmlldy53YXJyaW9yLmdldENvbXBvbmVudChjYy5BbmltYXRpb24pLm9uKCdmaW5pc2hlZCcsICgpID0+IHRoaXMuYW5pbWF0ZVN0b25lVGhyb3dpbmcoKSwgdGhpcy52aWV3LndhcnJpb3IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmRzZnNkZGQnKQo=</text>
+        <text encoding="base64">Ki5tZXRhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmRzZnNkZGQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgc3RvbmU6IGNjLk5vZGUgPSBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zdG9uZUFuaW1hdGlvbiA9IG5ldyBBbmltYXRpb24oc3RvbmUpOwo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eShjYy5Ob2RlKQogICAgc3RvbmU6IGNjLk5vZGUgPSBudWxsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0b25lQW5pbWF0aW9uOiBBbmltYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zdG9uZUFuaW1hdGlvbiA9IG5ldyBBbmltYXRpb24oc3RvbmUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJykK</text>
+        <text encoding="base64">ICAgIHN0b25lQW5pbWF0aW9uOiBBbmltYXRpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF95OiBudW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF94OiBudW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgIF95OiBudW1iZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZnVja2luZyBnYW1ldmlldyBjb21wb25lbnQnLCB0aGlzLnN0b25lUHJlZmFiKTsK</text>
+        <text encoding="base64">ICAgIF94OiBudW1iZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
