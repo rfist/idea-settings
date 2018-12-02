@@ -15,11 +15,6 @@
       <file name="/a.dummy" timestamp="1540293936601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Develop/cc-demo/creator.d.ts" timestamp="1540287369372">
-        <mark key="'" line="2496" column="46" />
-        <mark key="[" line="932" column="0" />
-        <mark key="]" line="932" column="56" />
-      </file>
       <file name="D:/work/sf/proctoru/bin/ProctorApp-app.xml" timestamp="1485382021899">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="23" />
@@ -77,10 +72,16 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="16" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/package.json" timestamp="1520629912789">
+      <file name="D:/Projects/adventofcode_solutions/package.json" timestamp="1543775969063">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_2_1.js" timestamp="1543778916701">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+        <mark key="^" line="15" column="47" />
       </file>
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SchedulingAPI.as" timestamp="1503829175948">
         <mark key="[" line="30" column="0" />
@@ -94,10 +95,10 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1543773921530">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
+      <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1543778133388">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="43" />
+        <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="22" />
       </file>
       <file name="D:/Develop/chatbot-fb/.env" timestamp="1539760718952">
@@ -130,6 +131,12 @@
         <mark key="]" line="3" column="3" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_2_1.test.js" timestamp="1543776993485">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="D:/Develop/morgan-roche/index.ts" timestamp="1532371818668">
         <mark key="[" line="6" column="9" />
@@ -278,7 +285,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543773974710">
+      <file name="/Dummy.txt" timestamp="1543778912269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -323,11 +330,10 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_2_0.js" timestamp="1543774984213">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="30" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_2_0.js" timestamp="1543776454474">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/fragment.js2" timestamp="1503857123928">
         <mark key="[" line="0" column="0" />
@@ -444,7 +450,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtJywgbWF0Y2hlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -452,35 +458,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwdXp6bGVTZWxlY3Rvclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>, 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcnIuc3BsaWNlKGluZGV4KSwgMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtJywgbWF0Y2hlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlcyA9IGlucHV0LnNwbGl0KGRlbGltaXRlciA/IGRlbGltaXRlciA6IC9ccj9cbi8pLm1hcChOdW1iZXIpLnJlZHVjZSgoYSxiKT0+YStiLDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndicsIHYxLCB2MikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChleGVjKCItMSwgLTIsIC0zIiwgJywnKSkudG9CZSgtNik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaGVzLnB1c2goYXJyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChleGVjKCIrMSwgKzEsIC0yIiwgJywnKSkudG9CZSgwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZiwgdjEsIHYyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAiZmdpaiI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2YWx1ZXMnLCB2YWx1ZXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1hdGNoZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd3dGYnLCBkZWxpbWl0ZXIsIGlucHV0LnNwbGl0KC9ccj9cbi8pLm1hcChOdW1iZXIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaGVzLnB1c2godjEuc3BsaWNlKHYxLmluZGV4T2YoZGlmZlswXSkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygndicsIHYxLCB2MS5zcGxpY2UodjEuaW5kZXhPZihkaWZmWzBdKSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
