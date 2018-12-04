@@ -95,10 +95,10 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="9" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1543958477226">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="49" />
-        <mark key="." line="25" column="49" />
+      <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1543959382517">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
         <mark key="^" line="25" column="49" />
       </file>
       <file name="D:/Develop/chatbot-fb/.env" timestamp="1539760718952">
@@ -179,11 +179,11 @@
         <mark key="]" line="57" column="32" />
         <mark key="." line="57" column="32" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_4_0.js" timestamp="1543958331551">
-        <mark key="[" line="59" column="36" />
-        <mark key="]" line="59" column="37" />
-        <mark key="." line="59" column="37" />
-        <mark key="^" line="59" column="9" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_4_0.js" timestamp="1543961089530">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="57" column="9" />
       </file>
       <file name="D:/Develop/chatbot-fb/app/controllers/bot.js" timestamp="1539613087895">
         <mark key="[" line="12" column="14" />
@@ -244,6 +244,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="8" column="66" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_4_1.js" timestamp="1543961108131">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="63" column="77" />
+        <mark key="." line="60" column="0" />
+      </file>
       <file name="D:/Develop/chatbot-fb/package.json" timestamp="1539527088503">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="29" />
@@ -290,7 +296,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543778912269">
+      <file name="/Dummy.txt" timestamp="1543961131138">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -460,44 +466,44 @@
       <jump line="22" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_2_1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>240</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncmZpc3QnLCByZXN1bHQsIGd1YXJkLmlkKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>240</text>
+        <text>.reverse()[0][1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXp6bGVTZWxlY3Rvclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQgKiBzbGVlcGluZ0d1YXJkLmlkKQo=</text>
+      <register name="0" type="4">
+        <text>R.sort(sortByAmount, mostSleepingTimes)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygncmZpc3QnLCByZXN1bHQsIGd1YXJkLmlkKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQgKiBzbGVlcGluZ0d1YXJkLmlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd2JywgdmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZmlzdCcsIGlkLCBhbW91bnQsIG1pbnV0ZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtJywgbWF0Y2hlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZicsIFIuc29ydChzb3J0QnlBbW91bnQsIG1vc3RTbGVlcGluZ1RpbWVzKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygndicsIHYxLCB2MikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtb3N0JywgbW9zdFNsZWVwaW5nVGltZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXRjaGVzLnB1c2goYXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaGlnaGVzdFNsZWVwaW5nUmF0aW87Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZiwgdjEsIHYyKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
@@ -595,6 +601,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
