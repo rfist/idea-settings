@@ -9,6 +9,13 @@
         <mark key="." line="6" column="36" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_1.test.js" timestamp="1544569198204">
+        <mark key="'" line="1" column="31" />
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="4" column="60" />
+      </file>
       <file name="D:/work/sf/proctoru/bin/ProctorApp-app.xml" timestamp="1485382021899">
         <mark key="[" line="20" column="21" />
         <mark key="]" line="20" column="23" />
@@ -38,6 +45,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="16" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_1.js" timestamp="1544569235196">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+      </file>
       <file name="D:/Projects/adventofcode_solutions/package.json" timestamp="1543775969063">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="20" />
@@ -54,11 +67,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1544475922862">
-        <mark key="[" line="40" column="44" />
-        <mark key="]" line="40" column="45" />
-        <mark key="." line="40" column="45" />
-        <mark key="^" line="37" column="52" />
+      <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1544569257167">
+        <mark key="[" line="47" column="44" />
+        <mark key="]" line="47" column="45" />
+        <mark key="." line="47" column="45" />
+        <mark key="^" line="44" column="47" />
       </file>
       <file name="D:/Develop/chatbot-fb/.env" timestamp="1539760718952">
         <mark key="[" line="5" column="34" />
@@ -176,6 +189,13 @@
         <mark key="]" line="32" column="17" />
         <mark key="." line="32" column="17" />
         <mark key="^" line="32" column="17" />
+      </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_0.test.js" timestamp="1544568556715">
+        <mark key="'" line="1" column="37" />
+        <mark key="[" line="4" column="59" />
+        <mark key="]" line="4" column="61" />
+        <mark key="." line="4" column="61" />
+        <mark key="^" line="4" column="61" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stoneAnimation.ts" timestamp="1540293216435">
         <mark key="[" line="9" column="84" />
@@ -326,10 +346,14 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="1" column="58" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_0.js" timestamp="1544569334006">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="31" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="20" filename="D:/work/sf/proctoru-student/scripts/com/util/StateHolder.as" />
-      <jump line="154" column="19" filename="D:/work/sf/proctoru-student/scripts/com/util/StateHolder.as" />
       <jump line="412" column="33" filename="D:/work/sf/proctoru/src/com/proctorapp/ui/VideoWindow.as" />
       <jump line="102" column="132" filename="D:/work/sf/proctoru/src/com/net/SignalWrapper.as" />
       <jump line="59" column="17" filename="D:/work/sf/ConnectionUtils/src/BrainFlash.as" />
@@ -428,46 +452,48 @@
       <jump line="0" column="24" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_6_1.js" />
       <jump line="17" column="25" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_6_1.js" />
       <jump line="24" column="22" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_6_1.js" />
+      <jump line="1" column="37" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_0.test.js" />
+      <jump line="1" column="31" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_1.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsaW1pdCcsIHRvdGFsTGltaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSA9IHVwZGF0ZWRCb2R5Owo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>updatedBody</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW1pdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGlzdGFuY2VzLnJlZHVjZSggKGFjYywgY3VycikgPT4gYWNjICsgY3VyciwgMCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDY6IHsKICAgICAgICBkZXNjcmlwdGlvbjogIi0tLSBEYXkgNjogQ2hyb25hbCBDb29yZGluYXRlcyAtLS0iLAogICAgICAgIHNvbHV0aW9uczogWwogICAgICAgICAgICByZXF1aXJlKCcuLi9wdXp6bGVzL3B1enpsZV8yMDE4XzZfMCcpLAogICAgICAgICAgICByZXF1aXJlKCcuLi9wdXp6bGVzL3B1enpsZV8yMDE4XzZfMScpLAogICAgICAgIF0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsaW1pdCcsIHRvdGFsTGltaXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keSA9IHVwZGF0ZWRCb2R5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRvdGFsTGltaXQgPSAxMDAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsaW10JywgbGltaXRlZEFyZWFzKTsK</text>
+        <text encoding="base64">ICAgIGdldFZhbHVlKCkgewogICAgICAgIGNvbnN0IHZhbHVlcyA9IHRoaXMuY2hpbGRyZW4ubWFwKHggPT4geC5nZXRWYWx1ZSgpKTsKICAgICAgICByZXR1cm4gdmFsdWVzLmNvbmNhdCh0aGlzLm1ldGFEYXRhKS5yZWR1Y2UoKGFjYywgY3VycikgPT4gYWNjICsgY3VyciwgMCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsJywgbG9jYXRpb25zKTsK</text>
+        <text encoding="base64">ICAgIGNsYXNzIE5vZGUgewogICAgICAgIGNvbnN0cnVjdG9yKG1ldGFEYXRhLCBjaGlsZHJlbikgewogICAgICAgICAgICB0aGlzLm1ldGFEYXRhID0gbWV0YURhdGE7CiAgICAgICAgICAgIHRoaXMuY2hpbGRyZW4gPSBjaGlsZHJlbjsKICAgICAgICB9CgogICAgICAgIGdldFZhbHVlKCkgewogICAgICAgICAgICBjb25zdCB2YWx1ZXMgPSB0aGlzLmNoaWxkcmVuLm1hcCh4ID0+IHguZ2V0VmFsdWUoKSk7CiAgICAgICAgICAgIHJldHVybiB2YWx1ZXMuY29uY2F0KHRoaXMubWV0YURhdGEpLnJlZHVjZSgoYWNjLCBjdXJyKSA9PiBhY2MgKyBjdXJyLCAwKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Rpc3QnLCBkaXN0YW5jZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3N1bW0nLCBkaXN0YW5jZXMucmVkdWNlKCAoYWNjLCBjdXJyKSA9PiBhY2MgKyBjdXJyLCAwKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsJywgcmVxdWlyZWRMb2NhdGlvbnNBbW91bnQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdpJywgaW5wdXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5hbWVzID0gaW5wdXQubWFwKCAodmFsdWUsIGluZGV4KSA9PiBgbG9jYXRpb24ke2luZGV4fWApOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3Jlc3VsdCcsIHJlcy5nZXRWYWx1ZSgpKWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zdCBsb2NhdGlvbnMgPSB7fTsKICAgIG5hbWVzLmZvckVhY2gobiA9PiBsb2NhdGlvbnNbbl0gPSAwKTsKICAgIGZvciAobGV0IHggPSBtaW5YOyB4IDwgbWF4WDsgeCsrKSB7CiAgICAgICAgZm9yIChsZXQgeSA9IG1pblk7IHkgPCBtYXhZOyB5KyspIHsKICAgICAgICAgICAgbGV0IGRpc3RhbmNlcyA9IGlucHV0Lm1hcCgoY29vcmQsIGkpID0+IChbY291bnREaXN0YW5jZShbeCwgeV0sIGNvb3JkKSwgaV0pKTsKICAgICAgICAgICAgbGV0IHNvcnRlZERpc3RhbmNlcyA9IGRpc3RhbmNlcy5zb3J0KChhLCBiKSA9PiBhWzBdIC0gYlswXSk7CiAgICAgICAgICAgIGxldCBvd25lciA9ICcwJzsKICAgICAgICAgICAgaWYgKHNvcnRlZERpc3RhbmNlc1swXVswXSAhPT0gc29ydGVkRGlzdGFuY2VzWzFdWzBdKSB7CiAgICAgICAgICAgICAgICBvd25lciA9IG5hbWVzW3NvcnRlZERpc3RhbmNlc1swXVsxXV0KICAgICAgICAgICAgfQogICAgICAgICAgICBsb2NhdGlvbnNbb3duZXJdKys7CiAgICAgICAgfQogICAgfQoKICAgIHJldHVybiBNYXRoLm1heCguLi5saW1pdGVkQXJlYXMubWFwKG5hbWUgPT4gbG9jYXRpb25zW25hbWVdKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
