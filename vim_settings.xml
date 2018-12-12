@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_1_1.test.js" timestamp="1543773828435">
@@ -318,10 +318,11 @@
         <mark key="." line="20" column="31" />
         <mark key="^" line="20" column="31" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_9_0.test.js" timestamp="1544639153737">
-        <mark key="[" line="8" column="56" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_9_0.test.js" timestamp="1544640903539">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2015_6_0.test.js" timestamp="1520585951713">
         <mark key="[" line="5" column="41" />
@@ -473,11 +474,11 @@
       <jump line="71" column="26" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_9_0.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBleHBlY3QoZXhlYygnMzAgcGxheWVyczsgbGFzdCBtYXJibGUgaXMgd29ydGggNTgwNyBwb2ludHMnKSkudG9CZSgzNzMwNSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>00</text>
       </register>
       <register name="-" type="4">
-        <text>geHighscore</text>
+        <text>00</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZUhpZ2hzY29yZVw+</text>
