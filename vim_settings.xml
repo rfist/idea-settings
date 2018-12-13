@@ -298,11 +298,6 @@
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
       </file>
-      <file name="/yarn.lock" timestamp="1544134609152">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7274" column="22" />
-      </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_5_1.js" timestamp="1544474133497">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -366,6 +361,7 @@
         <mark key="." line="20" column="39" />
         <mark key="^" line="20" column="39" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_10_0.js" timestamp="1544741087621" />
       <file name="D:/Develop/chatbot-fb/app/skills/conversations.js" timestamp="1539771144642">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
