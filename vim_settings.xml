@@ -74,6 +74,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle11.js" timestamp="1544821270757">
+        <mark key="[" line="29" column="57" />
+        <mark key="]" line="29" column="57" />
+        <mark key="." line="29" column="57" />
+        <mark key="^" line="29" column="57" />
+      </file>
       <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1544733324738">
         <mark key="[" line="61" column="47" />
         <mark key="]" line="61" column="48" />
@@ -496,43 +502,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZUhpZ2hzY29yZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IHk9MTsgeTwyOTc7IHkrKyl7Cg==</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IHNpemU9MTsgc2l6ZTw9MzAwOyBzaXplKyspIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxdWFyZXMucHVzaChbIHN1bSwge3gsIHksIHNpemV9XSkK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2VuZXJhdGVQdXp6bGUoc2l6ZSkgewogICAgbGV0IHB1enpsZSA9IFtdOwogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBzaXplOyBpKyspIHsKICAgICAgICBwdXp6bGVbaV0gPSBbXTsKICAgICAgICBmb3IgKGxldCBqID0gMDsgaiA8IHNpemU7IGorKykgewogICAgICAgICAgICBwdXp6bGVbaV1bal0gPSAwOwogICAgICAgIH0KICAgIH0KICAgIHJldHVybiBwdXp6bGU7Cn0K</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dW5jdGlvbiBnZW5lcmF0ZUZ1ZWxNYXAoZmllbGQpIHsKICAgIGZvciAobGV0IHkgPSAxOyB5IDwgMzsgeSsrKSB7CiAgICAgICAgZm9yIChsZXQgeCA9IDE7IHggPCAyOTc7IHgrKykgewogICAgICAgICAgICBzcXVhcmVzLnB1c2goW2dldFNxdWFyZVN1bSh4LCB5LCByZXN1bHQpLCB7eCwgeX1dKQogICAgICAgIH0KICAgIH0KfQ==</text>
+        <text encoding="base64">IGVsc2UgewogICAgICAgIGNvbnNvbGUubG9nKCdub3QgdXBzJykKICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3F1YXJlcy5wdXNoKFtnZXRTcXVhcmVTdW0oeCwgeSwgcmVzdWx0KSwge3gsIHl9XSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzJywgc2l6ZSwgeCwgeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxdWFyZXMucHVzaChbIHN1bSwge3gsIHksIHNpemV9XSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">dW5jdGlvbiBnZW5lcmF0ZUZ1ZWxNYXAoZmllbGQpIHsKICAgIGZvciAobGV0IHkgPSAxOyB5IDwgMzsgeSsrKSB7CiAgICAgICAgZm9yIChsZXQgeCA9IDE7IHggPCAyOTc7IHgrKykgewogICAgICAgICAgICBzcXVhcmVzLnB1c2goW2dldFNxdWFyZVN1bSh4LCB5LCByZXN1bHQpLCB7eCwgeX1dKQogICAgICAgIH0KICAgIH0KfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VtICs9IGRhdGFbeStpXVt4K2pdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3F1YXJlcy5wdXNoKFtnZXRTcXVhcmVTdW0oeCwgeSwgcmVzdWx0KSwge3gsIHl9XSkK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBleHBlY3QoZXhlYygnMTMgcGxheWVyczsgbGFzdCBtYXJibGUgaXMgd29ydGggNzk5OSBwb2ludHMnKSkudG9CZSgxNDYzNzMpOwogIGV4cGVjdChleGVjKCcyMSBwbGF5ZXJzOyBsYXN0IG1hcmJsZSBpcyB3b3J0aCA2MTExIHBvaW50cycpKS50b0JlKDU0NzE4KTsKICBleHBlY3QoZXhlYygnMzAgcGxheWVyczsgbGFzdCBtYXJibGUgaXMgd29ydGggNTgwNyBwb2ludHMnKSkudG9CZSgzNzMwNSk7CiAgZXhwZWN0KGV4ZWMoJzQyNyBwbGF5ZXJzOyBsYXN0IG1hcmJsZSBpcyB3b3J0aCA3MDcyMyBwb2ludHMnKSkudG9CZSgzNzMwNSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzJywgc2l6ZSwgeCwgeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
