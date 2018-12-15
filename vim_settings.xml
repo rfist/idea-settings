@@ -74,12 +74,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle11.js" timestamp="1544828371904">
-        <mark key="'" line="80" column="3" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="44" column="75" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle11.js" timestamp="1544831961565">
+        <mark key="'" line="83" column="3" />
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="11" />
+        <mark key="." line="83" column="11" />
+        <mark key="^" line="83" column="11" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/solutions/2018.js" timestamp="1544733324738">
         <mark key="[" line="61" column="47" />
@@ -293,6 +293,9 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1544831491049">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stone.ts" timestamp="1540249025468">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -503,10 +506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kRnVlbExldmVsXD4=</text>
