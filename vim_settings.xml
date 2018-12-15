@@ -69,12 +69,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" timestamp="1544902514671">
-        <mark key="'" line="70" column="35" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="51" column="58" />
-        <mark key="." line="113" column="0" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" timestamp="1544904586944">
+        <mark key="'" line="187" column="33" />
+        <mark key="[" line="183" column="17" />
+        <mark key="]" line="183" column="18" />
+        <mark key="." line="183" column="18" />
+        <mark key="^" line="183" column="18" />
       </file>
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SchedulingAPI.as" timestamp="1503829175948">
         <mark key="[" line="30" column="0" />
@@ -306,7 +306,7 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544902060267">
+      <file name="/JavaScript Console" timestamp="1544903640064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stone.ts" timestamp="1540249025468">
@@ -416,24 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="9" filename="D:/Projects/adventofcode_solutions/utils/generate_puzzle.js" />
-      <jump line="382" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="151" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="350" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="377" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="67" column="30" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="74" column="102" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="170" column="12" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="184" column="12" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="166" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="180" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="70" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="191" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="84" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="178" column="12" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="189" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="80" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
-      <jump line="174" column="33" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
       <jump line="33" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/SSPConnectors.js" />
       <jump line="28" column="8" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
       <jump line="4" column="0" filename="D:/work/smartyads/ad/adexchange/nodejs/node_server/connectors/DSPConnectors.js" />
@@ -516,55 +498,73 @@
       <jump line="51" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="53" column="35" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="36" column="12" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="22" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="7" column="49" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="106" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="109" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="6" column="37" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="95" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="121" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="104" column="46" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="108" column="42" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="158" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="3" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="161" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="165" column="45" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="4" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="135" column="39" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="5" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="187" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="44" column="8" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2FydC5tb3ZlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>DIRECTION_LEFT</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnRlcnNlY3Rpb25zQW1vdW50XD4=</text>
+        <text encoding="base64">XDxWRVJUSUNBTF9TVFJBSUdIVF9QQVRIXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2FydC5tb3ZlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2FydC5tb3ZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGlyZWN0aW9uID0gRElSRUNUSU9OX0RPV047Cg==</text>
+        <text encoding="base64">ICAgIGNhcnQxLm1vdmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGlyZWN0aW9uID0gRElSRUNUSU9OX1JJR0hUOwo=</text>
+        <text encoding="base64">Y2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2FydC5tb3ZlKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXh0Q2VsbCA9PT0gRElSRUNUSU9OX1JJR0hUKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy54ID0gdGhpcy55ICsgMTsKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2FydC5tb3ZlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsKY2FydC5tb3ZlKCk7CmNhcnQubW92ZSgpOwpjYXJ0Lm1vdmUoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGlyZWN0aW9uID0gOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXh0Q2VsbCA9PT0gSU5URVJTRUNUSU9OKSB7CgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGlyZWN0aW9uID0gRElSRUNUSU9OX0RPV047Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgTEVGVF9ET1dOX1BBVEggPSAnLyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuZGlyZWN0aW9uID0gRElSRUNUSU9OX1VQOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnRlcnNlY3Rpb25zQW1vdW50XD4=</last-search>
+      <last-search encoding="base64">XDxWRVJUSUNBTF9TVFJBSUdIVF9QQVRIXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnRlcnNlY3Rpb25zQW1vdW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxWRVJUSUNBTF9TVFJBSUdIVF9QQVRIXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwdXp6bGVTZWxlY3Rvclw+</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insertONe</entry>
         <entry>insert</entry>
         <entry encoding="base64">XDxpbnNlcnRPbmVcPg==</entry>
         <entry encoding="base64">XDxnZXRSZWZlcnJhbFw+</entry>
@@ -592,6 +591,7 @@
         <entry encoding="base64">XDxpbnRlcnNlY3Rpb25BbW91bnRcPg==</entry>
         <entry encoding="base64">XDxpcnRlcnNlY3Rpb25zQW1vdW50XD4=</entry>
         <entry encoding="base64">XDxpbnRlcnNlY3Rpb25zQW1vdW50XD4=</entry>
+        <entry encoding="base64">XDxWRVJUSUNBTF9TVFJBSUdIVF9QQVRIXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
