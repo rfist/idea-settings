@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_1_1.test.js" timestamp="1543773828435">
@@ -75,11 +75,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="15" column="47" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" timestamp="1544909049330">
-        <mark key="'" line="155" column="40" />
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" timestamp="1544915447145">
+        <mark key="'" line="198" column="29" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="217" column="9" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="D:/work/sf/proctoru-student/scripts/commands/net/SchedulingAPI.as" timestamp="1503829175948">
         <mark key="[" line="30" column="0" />
@@ -234,12 +234,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" timestamp="1544910824286">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="201" column="59" />
-        <mark key="." line="44" column="0" />
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" timestamp="1544915552724">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="35" />
+        <mark key="." line="8" column="35" />
+        <mark key="^" line="210" column="45" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/build/build.properties.example" timestamp="1503829075155">
         <mark key="[" line="14" column="0" />
@@ -324,7 +324,7 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1544910711104">
+      <file name="/JavaScript Console" timestamp="1544915148978">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stone.ts" timestamp="1540249025468">
@@ -434,30 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="15" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="113" column="2" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="0" column="0" filename="D:/Develop/chatbot-fb/app/components/menu.js" />
-      <jump line="55" column="18" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="0" column="0" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="130" column="11" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="42" column="15" filename="D:/Develop/chatbot-fb/app/controllers/mongo.js" />
-      <jump line="883" column="4" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2044" column="26" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2057" column="26" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2058" column="24" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2465" column="19" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2476" column="32" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2488" column="138" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2489" column="61" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2495" column="47" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="2496" column="46" filename="D:/Develop/cc-demo/creator.d.ts" />
-      <jump line="25" column="32" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
-      <jump line="23" column="8" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
-      <jump line="26" column="4" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
-      <jump line="27" column="21" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
-      <jump line="15" column="62" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/components/stoneAnimation.ts" />
-      <jump line="50" column="39" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
-      <jump line="2" column="42" filename="D:/Develop/cc-demo/assets/source/project-name/ui/game/states/gameplaystate.ts" />
       <jump line="41" column="53" filename="D:/Projects/adventofcode_solutions/src/App.js" />
       <jump line="11" column="4" filename="D:/Projects/adventofcode_solutions/src/App.js" />
       <jump line="0" column="16" filename="D:/Projects/adventofcode_solutions/src/solutions/2015.js" />
@@ -503,7 +479,6 @@
       <jump line="121" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="104" column="46" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="108" column="42" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
-      <jump line="158" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="3" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="161" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="165" column="45" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
@@ -514,7 +489,6 @@
       <jump line="183" column="18" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="190" column="12" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="193" column="4" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
-      <jump line="197" column="3" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="175" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="189" column="12" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="192" column="4" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
@@ -534,55 +508,81 @@
       <jump line="5" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
       <jump line="22" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" />
       <jump line="188" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" />
+      <jump line="23" column="6" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="36" column="4" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" />
+      <jump line="233" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="124" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="126" column="35" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="33" column="8" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="128" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="148" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="151" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="154" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="158" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="29" column="13" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="55" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="58" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="62" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="66" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="86" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="89" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="93" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="97" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="117" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="120" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="236" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="197" column="29" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_0.js" />
+      <jump line="229" column="36" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" />
+      <jump line="40" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_13_1.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5uYW1lID09PSA3KSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCc4JykKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYXJ0XD4=</text>
+        <text>while</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FydHNUb1JlbW92ZS5wdXNoKGNhcnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FydHNUb1JlbW92ZS5wdXNoKGNhcnQpOwogICAgICAgICAgICBjYXJ0c1RvUmVtb3ZlLnB1c2goY29vcmRpbmF0ZXNbY2FydC5jb29yZF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5uYW1lID09PSA3KSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCc4JykKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzQ3Jhc2hlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IHN1cnZpdmVDb29yZGluYXRlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYXNoQ29vcmRpbmF0ZXMgPSBjYXJ0LmNvb3JkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FydHMubGVuZ3RoID09PSAxKSB7CiAgICAgICAgICAgIHN1cnZpdmVDb29yZGluYXRlcyA9IGNhcnQuY29vcmQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2xhc3QgY2FydCcsIHN1cnZpdmVDb29yZGluYXRlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhbGFybSEnLCBpdGVyYXRpb24sIGNhcnQuY29vcmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlQ2FydCgsIGNhcnRzKTsK</text>
+        <text encoding="base64">ICAgIGlmIChpdGVyYXRpb24gPT09IDMyNCAmJiBpdGVyYXRpb24gPCAzMzEpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlQ2FydChjYXJ0LCBjYXJ0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRlZE1hcFt5XVt4XSA9IGk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDcmFzaGVkID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5uYW1lID09PSA3KSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCc4JykKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGlzQ3Jhc2hlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">bGV0IHN1cnZpdmVDb29yZGluYXRlczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZXJhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FydHMubGVuZ3RoID09PSAxKSB7CiAgICAgICAgICAgIHN1cnZpdmVDb29yZGluYXRlcyA9IGNhcnQuY29vcmQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYXJ0XD4=</last-search>
+      <last-search>while</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYXJ0XD4=</last-pattern>
+      <last-pattern>while</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwdXp6bGVTZWxlY3Rvclw+</last-substitute>
       <last-dir>1</last-dir>
@@ -590,8 +590,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZWZlcnJhbFw+</entry>
-        <entry>callback</entry>
         <entry>animate</entry>
         <entry encoding="base64">XDwxMFw+</entry>
         <entry encoding="base64">XDxzdG9uZUFuaW1hdGlvblw+</entry>
@@ -606,10 +604,12 @@
         <entry encoding="base64">XDxmaW5kRnVlbExldmVsXD4=</entry>
         <entry encoding="base64">XDxpbnRlcnNlY3Rpb25BbW91bnRcPg==</entry>
         <entry encoding="base64">XDxpcnRlcnNlY3Rpb25zQW1vdW50XD4=</entry>
-        <entry encoding="base64">XDxpbnRlcnNlY3Rpb25zQW1vdW50XD4=</entry>
         <entry encoding="base64">XDxWRVJUSUNBTF9TVFJBSUdIVF9QQVRIXD4=</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxDYXJ0XD4=</entry>
+        <entry encoding="base64">XDxpbnRlcnNlY3Rpb25zQW1vdW50XD4=</entry>
+        <entry encoding="base64">XDxnZXROYW1lXD4=</entry>
+        <entry>while</entry>
       </history-search>
       <history-cmd>
         <entry>sp MapPlastunView</entry>
