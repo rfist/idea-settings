@@ -33,6 +33,12 @@
         <mark key="." line="12" column="100" />
         <mark key="^" line="12" column="100" />
       </file>
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_7_1.js" timestamp="1545734349136">
+        <mark key="[" line="100" column="25" />
+        <mark key="]" line="100" column="25" />
+        <mark key="." line="100" column="25" />
+        <mark key="^" line="100" column="25" />
+      </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_1_1.js" timestamp="1543773958712">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -189,10 +195,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_7_0.js" timestamp="1545690089491">
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_7_0.js" timestamp="1545732783169">
         <mark key="'" line="7" column="48" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="24" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_1_0.js" timestamp="1544474465381">
@@ -374,7 +380,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544874675521">
+      <file name="/Dummy.txt" timestamp="1545732986095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -431,7 +437,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_5_0.js" timestamp="1544134544641">
+      <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_5_0.js" timestamp="1545733019874">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -548,49 +554,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Day 6: Chronal Coordinates</text>
+        <text>sort()[0]</text>
       </register>
       <register name="-" type="4">
-        <text>Day 6: Chronal Coordinates</text>
+        <text>sort()[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDY6IHsKICAgICAgICBkZXNjcmlwdGlvbjogIi0tLSBEYXkgNjogQ2hyb25hbCBDb29yZGluYXRlcyAtLS0iLAogICAgICAgIHNvbHV0aW9uczogWwogICAgICAgICAgICByZXF1aXJlKCcuLi9wdXp6bGVzL3B1enpsZV8yMDE4XzZfMCcpLAogICAgICAgICAgICByZXF1aXJlKCcuLi9wdXp6bGVzL3B1enpsZV8yMDE4XzZfMScpLAogICAgICAgIF0KICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGF2YWlsYWJsZVdvcmtlcnMucHVzaChpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlucHV0ID0gYGA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhlY3V0ZSgnJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGFjY2VwdCA9IGFuc3dlcnMuc29ydCgpWzBdOwogICAgICAgICAgICAgICAgbGV0IHRpbWUgPSBsZXR0ZXJzLmluZGV4T2YoYWNjZXB0KSArIHN0ZXBEdXJhdGlvbjsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd0aW1lJywgdGltZSk7CiAgICAgICAgICAgICAgICBjb3JyZWN0T3JkZXIgKz0gYWNjZXB0OwogICAgICAgICAgICAgICAgZXZlbnRFbWl0dGVyLmVtaXQoJ2FjY2VwdCcsIGFjY2VwdCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MSwgNgo4LCAzCjMsIDQKNSwgNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Step C must be finished before step A can begin.
-Step C must be finished before step F can begin.
-Step A must be finished before step B can begin.
-Step A must be finished before step D can begin.
-Step B must be finished before step E can begin.
-Step D must be finished before step E can begin.
-Step F must be finished before step E can begin.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc3RhcnQgcm91bmQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlucHV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3JyZWN0T3JkZXIgKz0gYWNjZXB0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
