@@ -234,17 +234,22 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="D:/temp/hellogo/test.go" timestamp="1550271752811">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="35" />
-        <mark key="." line="33" column="35" />
-        <mark key="^" line="33" column="57" />
+      <file name="D:/temp/hellogo/test.go" timestamp="1550273420002">
+        <mark key="'" line="25" column="5" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
+      </file>
+      <file name="D:/temp/hellogo/util.go" timestamp="1550273550072">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_6_1.test.js" timestamp="1544476560474">
         <mark key="[" line="9" column="6" />
@@ -392,7 +397,7 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550270763028">
+      <file name="/Dummy.txt" timestamp="1550273734111">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -469,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="31" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_8_1.test.js" />
-      <jump line="72" column="33" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_9_0.js" />
       <jump line="47" column="2" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_9_0.js" />
       <jump line="71" column="26" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_9_0.js" />
       <jump line="19" column="0" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_11_0.js" />
@@ -569,46 +572,48 @@
       <jump line="27" column="4" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_7_1.js" />
       <jump line="7" column="39" filename="D:/Projects/adventofcode_solutions/src/puzzles/puzzle_2018_7_1.js" />
       <jump line="33" column="39" filename="D:/temp/hellogo/test.go" />
+      <jump line="25" column="5" filename="D:/temp/hellogo/test.go" />
+      <jump line="9" column="30" filename="D:/temp/hellogo/util.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXJldAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRIYW5kbGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEVtaXR0ZXIuZW1pdCgnbmV4dCcpOwo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJsb2dnaW5nIiwgdGV4dCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJzdHJpbmciCg==</text>
+        <text encoding="base64">CXJldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CSJtYWluIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXNlc3QoInRlc3QyIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuYyBoYW5kbGVyKCkgewoJCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJuZSIK</text>
+        <text encoding="base64">CSIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gbmV3IEFycmF5KDUsICkK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3RhbCB0aW1lJywgdG90YWxUaW1lKTsK</text>
+        <text encoding="base64">CSJzdHJpbmciCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhlY3V0ZShgU3RlcCBDIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgQSBjYW4gYmVnaW4uClN0ZXAgQyBtdXN0IGJlIGZpbmlzaGVkIGJlZm9yZSBzdGVwIEYgY2FuIGJlZ2luLgpTdGVwIEEgbXVzdCBiZSBmaW5pc2hlZCBiZWZvcmUgc3RlcCBCIGNhbiBiZWdpbi4KU3RlcCBBIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgRCBjYW4gYmVnaW4uClN0ZXAgQiBtdXN0IGJlIGZpbmlzaGVkIGJlZm9yZSBzdGVwIEUgY2FuIGJlZ2luLgpTdGVwIEQgbXVzdCBiZSBmaW5pc2hlZCBiZWZvcmUgc3RlcCBFIGNhbiBiZWdpbi4KU3RlcCBGIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgRSBjYW4gYmVnaW4uYCwgMCwgMik7Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbmV4dCcsIHRoaXMubmFtZSwgdGhpcy5pc0FjY2VwdGVkLCB0aGlzLmlzQXZhaWxhYmxlLCB0aGlzLnJlcXVpcmVkLCB0aGlzLmFjY2VwdGVkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
