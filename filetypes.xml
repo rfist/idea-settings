@@ -6,7 +6,6 @@
       <mapping pattern="prepareTest" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="go" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

@@ -234,11 +234,10 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="D:/temp/hellogo/test.go" timestamp="1550255175359">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/temp/hellogo/test.go" timestamp="1550256135314">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
       </file>
       <file name="D:/work/sf/proctoru-student/crypt/src/CryptObject.as" timestamp="1503825088442">
         <mark key="[" line="14" column="15" />
@@ -572,10 +571,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NlcHRIYW5kbGVyXD4=</text>
@@ -584,31 +583,31 @@
         <text encoding="base64">ICAgICAgICBldmVudEVtaXR0ZXIuZW1pdCgnbmV4dCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBhID0gbmV3IEFycmF5KDUsICkK</text>
+        <text encoding="base64">CSJuZSIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3RhbCB0aW1lJywgdG90YWxUaW1lKTsK</text>
+        <text encoding="base64">ICAgIGxldCBhID0gbmV3IEFycmF5KDUsICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhlY3V0ZShgU3RlcCBDIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgQSBjYW4gYmVnaW4uClN0ZXAgQyBtdXN0IGJlIGZpbmlzaGVkIGJlZm9yZSBzdGVwIEYgY2FuIGJlZ2luLgpTdGVwIEEgbXVzdCBiZSBmaW5pc2hlZCBiZWZvcmUgc3RlcCBCIGNhbiBiZWdpbi4KU3RlcCBBIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgRCBjYW4gYmVnaW4uClN0ZXAgQiBtdXN0IGJlIGZpbmlzaGVkIGJlZm9yZSBzdGVwIEUgY2FuIGJlZ2luLgpTdGVwIEQgbXVzdCBiZSBmaW5pc2hlZCBiZWZvcmUgc3RlcCBFIGNhbiBiZWdpbi4KU3RlcCBGIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgRSBjYW4gYmVnaW4uYCwgMCwgMik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0b3RhbCB0aW1lJywgdG90YWxUaW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbmV4dCcsIHRoaXMubmFtZSwgdGhpcy5pc0FjY2VwdGVkLCB0aGlzLmlzQXZhaWxhYmxlLCB0aGlzLnJlcXVpcmVkLCB0aGlzLmFjY2VwdGVkKTsK</text>
+        <text encoding="base64">ZXhlY3V0ZShgU3RlcCBDIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgQSBjYW4gYmVnaW4uClN0ZXAgQyBtdXN0IGJlIGZpbmlzaGVkIGJlZm9yZSBzdGVwIEYgY2FuIGJlZ2luLgpTdGVwIEEgbXVzdCBiZSBmaW5pc2hlZCBiZWZvcmUgc3RlcCBCIGNhbiBiZWdpbi4KU3RlcCBBIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgRCBjYW4gYmVnaW4uClN0ZXAgQiBtdXN0IGJlIGZpbmlzaGVkIGJlZm9yZSBzdGVwIEUgY2FuIGJlZ2luLgpTdGVwIEQgbXVzdCBiZSBmaW5pc2hlZCBiZWZvcmUgc3RlcCBFIGNhbiBiZWdpbi4KU3RlcCBGIG11c3QgYmUgZmluaXNoZWQgYmVmb3JlIHN0ZXAgRSBjYW4gYmVnaW4uYCwgMCwgMik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndG90YWwgdGltZScsIHRvdGFsVGltZSwgY29ycmVjdE9yZGVyLCB3b3JrZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnbmV4dCcsIHRoaXMubmFtZSwgdGhpcy5pc0FjY2VwdGVkLCB0aGlzLmlzQXZhaWxhYmxlLCB0aGlzLnJlcXVpcmVkLCB0aGlzLmFjY2VwdGVkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUnLCB0aW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndG90YWwgdGltZScsIHRvdGFsVGltZSwgY29ycmVjdE9yZGVyLCB3b3JrZXJzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gZXZlbnRFbWl0dGVyLmVtaXQoJ2FjY2VwdCcsIGFjY2VwdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUnLCB0aW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b3RhbFRpbWUrKzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gZXZlbnRFbWl0dGVyLmVtaXQoJ2FjY2VwdCcsIGFjY2VwdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb24gbmV4dCcsIGFuc3dlcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbFRpbWUrKzsK</text>
       </register>
       <register name=":" type="4">
         <text>vsplit</text>
